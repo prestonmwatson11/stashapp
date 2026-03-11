@@ -949,7 +949,7 @@
     "city": "Wilton",
     "state": "CT",
     "url": "www.enrichedstitch.com",
-    "hours_value": "online at least 24 hours in advance and select which day you plan to attend Available January Dates 1/14, 1/16, 1/28, 1/30 Content1 Whether you're an avid needlepoin",
+    "hours_value": null,
     "phone_value": null,
     "ig_value": null
   },
@@ -996,7 +996,7 @@
     "url": "www.theflyingneedles.com",
     "hours_value": "Wed-Sat 10am-4pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": "https://www.theflyingneedles.com/www.instagram.com/flyingneedlesbelleair"
   },
   {
     "shop_name": "Grande Stitches",
@@ -1418,8 +1418,8 @@
     "state": "LA",
     "url": "www.quarterstitch.com",
     "hours_value": "Mon-Sun 10am-6pm",
-    "phone_value": null,
-    "ig_value": null
+    "phone_value": "504-522-4451",
+    "ig_value": "https://www.instagram.com/quarter_stitch/"
   },
   {
     "shop_name": "Hanging by a Thread",
@@ -1435,7 +1435,7 @@
     "city": "Boston",
     "state": "MA",
     "url": "www.stitchboutiqueofboston.com",
-    "hours_value": "Mon-Tues 11am-4pm, Weds 11am-7:30pm, Thurs-Sat 11am-4pm",
+    "hours_value": "Mon-Tues 11am-4pm, Wed 11am-7:30pm, Thurs-Sat 11am-4pm",
     "phone_value": "617-236-4633",
     "ig_value": null
   },
@@ -1534,7 +1534,7 @@
     "city": "Grand Blanc",
     "state": "MI",
     "url": "www.homesteadneedlearts.com",
-    "hours_value": "Wednesday, Friday, Saturday 10-4.  Closed Sundays, Mondays and Thursdays.  If the weather is bad, ple",
+    "hours_value": "Wed, Fri, Sat 10-4",
     "phone_value": null,
     "ig_value": null
   },
@@ -1777,7 +1777,7 @@
     "city": "Merchantville",
     "state": "NJ",
     "url": "www.nimbleneedlenj.com",
-    "hours_value": "Shop •Tues through Friday 12:00- 5:00 Saturdays 11:00-4:00 Mornings by Appointment Christmas Hours: Open Dec23 11:00-4:00 Closed Dec24-Jan1 •Email orders are welcome! sales@thenimbleneedle",
+    "hours_value": "Tues-Fri 12pm-5pm, Sat 11am-4pm",
     "phone_value": null,
     "ig_value": null
   },
@@ -2065,9 +2065,9 @@
     "city": "Barrington",
     "state": "RI",
     "url": "picketfenceneedlepoint.com",
-    "hours_value": null,
+    "hours_value": "Tues-Sat 10:30am-5pm",
     "phone_value": "(401) 245-0484 ",
-    "ig_value": null
+    "ig_value": "https://www.instagram.com/thepicketfenceri/"
   },
   {
     "shop_name": "Needlepoint by the Bay",
@@ -2110,7 +2110,7 @@
     "city": "Hilton Head Island",
     "state": "SC",
     "url": "shopneedlepointjunction.com",
-    "hours_value": "Mon-Fri 9:30am-4pm, Saturday 9:30am-2:00pm",
+    "hours_value": "Mon-Fri 9:30am-4pm, Sat 9:30am-2pm",
     "phone_value": null,
     "ig_value": null
   },
@@ -2407,9 +2407,9 @@
     "city": "Charlottesville",
     "state": "VA",
     "url": "www.magpieknits.com",
-    "hours_value": null,
+    "hours_value": "Mon-Sat 10am-5pm, Sun 10am-2pm",
     "phone_value": "434-296-4625",
-    "ig_value": null
+    "ig_value": "https://www.instagram.com/magpie.knits/?hl=en"
   },
   {
     "shop_name": "poppypointe",
@@ -2462,7 +2462,7 @@
     "state": "VA",
     "url": "www.thestitchingstudiova.com",
     "hours_value": "Tues-Fri 10am-5pm, Sat 10am-4pm",
-    "phone_value": null,
+    "phone_value": "(804) 269-0355",
     "ig_value": null
   },
   {

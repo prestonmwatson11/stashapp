@@ -2078,13 +2078,21 @@ export default function Needlewise() {
                       <div className="lnscity">{s.city}, {s.state}</div>
                       {s.hours&&<div className="lnsrow">&#x23F0; {s.hours}</div>}
                       {s.phone&&<div className="lnsrow">&#x1F4DE; {s.phone}</div>}
-                      <div style={{display:'flex',gap:6,marginTop:10,flexWrap:'wrap'}}>
+                      <div style={{display:'flex',gap:6,marginTop:10,alignItems:'center'}}>
                         {s.url
                           ? <a href={s.url} target="_blank" rel="noreferrer" className="btn btn-s" style={{fontSize:11,padding:'5px 11px',textDecoration:'none'}}>Visit Website &#x2192;</a>
                           : <button className="btn btn-s" style={{fontSize:11,padding:'5px 11px'}}>View Shop</button>
                         }
-                        {s.ig&&<a href={s.ig} target="_blank" rel="noreferrer" className="btn btn-s" style={{fontSize:11,padding:'5px 11px',textDecoration:'none'}}>&#x1F4F7; Instagram</a>}
                         <button className="btn btn-p" style={{fontSize:11,padding:'5px 11px'}}>Classes &#x2192;</button>
+                        {s.ig&&<a href={s.ig} target="_blank" rel="noreferrer" style={{display:'flex',alignItems:'center',justifyContent:'center',width:30,height:30,borderRadius:'50%',border:'1.5px solid #DDE3E9',textDecoration:'none',flexShrink:0,transition:'border-color 0.15s'}} title="Instagram"
+                          onMouseOver={e=>e.currentTarget.style.borderColor='#E07060'}
+                          onMouseOut={e=>e.currentTarget.style.borderColor='#DDE3E9'}>
+                          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#5A6370" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                            <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+                            <circle cx="12" cy="12" r="4"/>
+                            <circle cx="17.5" cy="6.5" r="1" fill="#5A6370" stroke="none"/>
+                          </svg>
+                        </a>}
                       </div>
                     </div>
                   ))}
