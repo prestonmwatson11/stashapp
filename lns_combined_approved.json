@@ -798,7 +798,7 @@
     "url": "www.2needlepoint.com",
     "hours_value": "By Appointment Only",
     "phone_value": "(925) 461-8664",
-    "ig_value": null
+    "ig_value": "https://instagram.com/terry.castillo"
   },
   {
     "shop_name": "The Needlepointer (Sacramento)",
@@ -841,7 +841,7 @@
     "city": "Santa Monica",
     "state": "CA",
     "url": "www.aristeianeedlepoint.com",
-    "hours_value": "Mon - Fri 10am - 4pm, Saturdays 10am - 5pm",
+    "hours_value": "Mon-Fri 10am-4pm, Sat 10am-5pm",
     "phone_value": "(310)-260-6330",
     "ig_value": null
   },
@@ -886,9 +886,9 @@
     "city": "Denver",
     "state": "CO",
     "url": "www.stitchingshop.com",
-    "hours_value": "Mon – Sat 10:00 a.m. - 5:00 p.m.",
+    "hours_value": "Mon–Sat 10am-5pm",
     "phone_value": "(303) 727-8500",
-    "ig_value": null
+    "ig_value": "https://www.instagram.com/astitchingshop/"
   },
   {
     "shop_name": "Downing Street Needlepoint",
@@ -1581,7 +1581,7 @@
     "url": "www.3kittensneedlearts.com",
     "hours_value": "Tues-Sat 10am - 3pm",
     "phone_value": "(651) 457-4969",
-    "ig_value": null
+    "ig_value": "https://www.instagram.com/3kittensneedlearts/"
   },
   {
     "shop_name": "Needlework Unlimited",
@@ -1876,9 +1876,9 @@
     "city": "New York",
     "state": "NY",
     "url": "www.annieandco.com",
-    "hours_value": "Monday - Friday 10:00 am - 6:00 pm, Saturdays 11:00 am - 5:00 pm, Sundays 12:00 pm - 5:00 pm",
+    "hours_value": "Mon-Fri 10am-6pm, Sat 11am-5:pm, Sun 12pm-5pm",
     "phone_value": "212) 360-7266 or (212) 289-2944",
-    "ig_value": null
+    "ig_value": "https://instagram.com/annieandco.nyc"
   },
   {
     "shop_name": "Rita's Needlepoint",
@@ -1905,7 +1905,7 @@
     "url": "www.bargello-needlepoint.com",
     "hours_value": "Tues, Thurs, Fri 10–4pm, Wed 2pm-7:30pm, Sat 10–2pm",
     "phone_value": "914-361-1014",
-    "ig_value": null
+    "ig_value": "https://instagram.com/bargelloneedlepointny"
   },
   {
     "shop_name": "Needlepoint Gallery & More",
@@ -1930,9 +1930,9 @@
     "city": "Cincinnati",
     "state": "OH",
     "url": "www.absolutelyneedlepointcincy.com",
-    "hours_value": "Monday – Friday 10-5 and Saturday 10-3",
+    "hours_value": "Mon-Fri 10am-5pm, Sat 10am-3pm",
     "phone_value": "513-561-7999",
-    "ig_value": null
+    "ig_value": "https://www.instagram.com/4583895108/"
   },
   {
     "shop_name": "The Top Drawer",
@@ -2164,9 +2164,9 @@
     "city": "Sioux Falls",
     "state": "SD",
     "url": "www.barbarasneedlepoint.com",
-    "hours_value": "Mon - Fri 10am - 4pm, Saturdays 10am - 3pm",
+    "hours_value": "Mon-Fri 10am-4pm, Sat 10am-3pm",
     "phone_value": "605-367-9050",
-    "ig_value": null
+    "ig_value": "https://www.instagram.com/barbarasneedlepoint"
   },
   {
     "shop_name": "Nashville Needleworks",
@@ -2218,9 +2218,9 @@
     "city": "Dallas",
     "state": "TX",
     "url": "www.creativestitchesandgifts.com",
-    "hours_value": "sandgifts.com Hours Tuesday - Friday 10 am to 4 pm, Saturday 10 am to 2 pm , Closed Sunday and Monday",
-    "phone_value": null,
-    "ig_value": null
+    "hours_value": "Tues-Fri 10am-4pm, Sat 10am-2pm",
+    "phone_value": "(214) 361 2610",
+    "ig_value": "https://www.instagram.com/creativestitchesandgifts"
   },
   {
     "shop_name": "Needlepoint This!",
@@ -2272,9 +2272,9 @@
     "city": "Houston",
     "state": "TX",
     "url": "www.chandailneedlework.com",
-    "hours_value": "Friday: 10am - 5pm Thursday & Saturday: 10am - 4pm Tuesday & Sunday: Closed Happy Stitching! Newsletter",
-    "phone_value": null,
-    "ig_value": null
+    "hours_value": "Fri 10am-5pm, Thurs & Sat 10am-4pm",
+    "phone_value": "(713) 524-6942",
+    "ig_value": "https://m.facebook.com/Chandail-Needlework-140088702721572/"
   },
   {
     "shop_name": "Chaparral Needlework",
