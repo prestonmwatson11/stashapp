@@ -1,0 +1,86 @@
+[
+  {
+    "shop_name": "Cottage Finishers",
+    "city": "Rome",
+    "state": "GA",
+    "url": null,
+    "status": "no_url",
+    "phones_found": [],
+    "best_guess": null,
+    "source_page": null
+  },
+  {
+    "shop_name": "Bedecked and Beadazzled",
+    "city": "Lutherville",
+    "state": "MD",
+    "url": null,
+    "status": "no_url",
+    "phones_found": [],
+    "best_guess": null,
+    "source_page": null
+  },
+  {
+    "shop_name": "Twisted Stitches Needlepoint",
+    "city": "Albuquerque",
+    "state": "NM",
+    "url": null,
+    "status": "no_url",
+    "phones_found": [],
+    "best_guess": null,
+    "source_page": null
+  },
+  {
+    "shop_name": "The Busy Needle",
+    "city": "Tucson",
+    "state": "AZ",
+    "url": "www.busyneedle.com",
+    "status": "found_homepage",
+    "phones_found": [
+      "(303) 893-0552"
+    ],
+    "best_guess": "(303) 893-0552",
+    "source_page": "https://www.busyneedle.com"
+  },
+  {
+    "shop_name": "Morgan Julia Designs (St. Pete Studio)",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "url": "morganjuliadesigns.com",
+    "status": "not_found",
+    "phones_found": [],
+    "best_guess": null,
+    "source_page": null
+  },
+  {
+    "shop_name": "Third Coast Stitches",
+    "city": "Chicago",
+    "state": "IL",
+    "url": "thirdcoaststitches.com",
+    "status": "not_found",
+    "phones_found": [],
+    "best_guess": null,
+    "source_page": null
+  },
+  {
+    "shop_name": "Morgan Julia Designs (Jersey City)",
+    "city": "Jersey City",
+    "state": "NJ",
+    "url": "morganjuliadesigns.com",
+    "status": "not_found",
+    "phones_found": [],
+    "best_guess": null,
+    "source_page": null
+  },
+  {
+    "shop_name": "Wipstitch Needleworks",
+    "city": "Dallas",
+    "state": "TX",
+    "url": "wipstitch.com",
+    "status": "found_homepage",
+    "phones_found": [
+      "(214) 909-8538"
+    ],
+    "best_guess": "(214) 909-8538",
+    "source_page": "https://wipstitch.com"
+  }
+]

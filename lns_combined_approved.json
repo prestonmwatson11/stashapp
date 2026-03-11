@@ -1,0 +1,2531 @@
+[
+  {
+    "shop_name": "The Needlepoint Place, Inc.",
+    "city": "Trussville",
+    "state": "AL",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Simply Needlepoint",
+    "city": "Alamo",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "JEBBA Needlepoint Designs",
+    "city": "Corona del Mar",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Newport Needlepoint",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Janna's Needle Art",
+    "city": "Fresno",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint of La Jolla",
+    "city": "La Jolla",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitched Up Needleworks",
+    "city": "Morgan Hill",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Willy's Needleworks",
+    "city": "Orange",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Artful Needle",
+    "city": "Petaluma",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Golden Gate Needlepoint",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "A Stitch in Time (San Marino)",
+    "city": "San Marino",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Queen Anne Stitches",
+    "city": "Santa Clarita",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Exclamation Point!",
+    "city": "Saratoga",
+    "state": "CA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "A Stitch in Time (Bethel)",
+    "city": "Bethel",
+    "state": "CT",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needlepoint Shop of Guilford",
+    "city": "Branford",
+    "state": "CT",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "In Stitches LLC",
+    "city": "Greenwich",
+    "state": "CT",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needlepoint Nook of Mystic",
+    "city": "Mystic",
+    "state": "CT",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Golden Needle",
+    "city": "New Milford",
+    "state": "CT",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Two Morrows",
+    "city": "New Castle",
+    "state": "DE",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Whimsical Needle",
+    "city": "Wilmington",
+    "state": "DE",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Eye of the Needle Guild",
+    "city": "Sarasota",
+    "state": "FL",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Seaside Needlepoint",
+    "city": "Vero Beach",
+    "state": "FL",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Cottage Finishers",
+    "city": "Rome",
+    "state": "GA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Stitchery of St. Simons",
+    "city": "St. Simons Island",
+    "state": "GA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Fiddlesticks Too, Inc.",
+    "city": "Honolulu",
+    "state": "HI",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Fiberworks Needlework Shop",
+    "city": "Waverly",
+    "state": "IA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Isabel's Needlepoint",
+    "city": "Ketchum",
+    "state": "ID",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Sun Valley Needle Arts",
+    "city": "Ketchum",
+    "state": "ID",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needle's Excellency",
+    "city": "Evanston",
+    "state": "IL",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Village Needleworks Ltd.",
+    "city": "Westmont",
+    "state": "IL",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle Nest (Goshen)",
+    "city": "Goshen",
+    "state": "IN",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle Fiber Arts, Inc.",
+    "city": "Prairie Village",
+    "state": "KS",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Elegant Traditions Ltd.",
+    "city": "Bowling Green",
+    "state": "KY",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle Arts Studio",
+    "city": "New Orleans",
+    "state": "LA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The World of Stitches",
+    "city": "Littleton",
+    "state": "MA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Erica Wilson Needleworks",
+    "city": "Nantucket",
+    "state": "MA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Knit and Stitch = Bliss",
+    "city": "Bethesda",
+    "state": "MD",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Bedecked and Beadazzled",
+    "city": "Lutherville",
+    "state": "MD",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "From Start to Finish",
+    "city": "Potomac",
+    "state": "MD",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint For You",
+    "city": "Troy",
+    "state": "MI",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Stitch Niche",
+    "city": "Pass Christian",
+    "state": "MS",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Front Street Company",
+    "city": "Dillsboro",
+    "state": "NC",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch Point",
+    "city": "Greensboro",
+    "state": "NC",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Moore Than Needlepoint",
+    "city": "Pinehurst",
+    "state": "NC",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Adornment Needlepoint Boutique",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint Epiphany",
+    "city": "Amherst",
+    "state": "NH",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Contoocook Needlework Gallery",
+    "city": "Contoocook",
+    "state": "NH",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Hunters",
+    "city": "Meredith",
+    "state": "NH",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Mrs. Stitches",
+    "city": "Mendham",
+    "state": "NJ",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Twisted Stitches Needlepoint",
+    "city": "Albuquerque",
+    "state": "NM",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Golden Thread Needlearts",
+    "city": "East Rochester",
+    "state": "NY",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Cincinnati Needlepoint",
+    "city": "Cincinnati",
+    "state": "OH",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitches of Tulsa",
+    "city": "Tulsa",
+    "state": "OK",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint Plus",
+    "city": "Beaverton",
+    "state": "OR",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Buzy Lizzy",
+    "city": "Chadds Ford",
+    "state": "PA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitches Unlimited",
+    "city": "Lancaster",
+    "state": "PA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Barbara Sue Brody Needlework",
+    "city": "Aiken",
+    "state": "SC",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Joy of Needlepoint",
+    "city": "Brentwood",
+    "state": "TN",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle Nest (Columbia)",
+    "city": "Columbia",
+    "state": "TN",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitches (Knoxville)",
+    "city": "Knoxville",
+    "state": "TN",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint & Other Things",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needlewoman East",
+    "city": "Falls Church",
+    "state": "VA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Village Needlepoint of Irvington",
+    "city": "Irvington",
+    "state": "VA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Village Stitchery",
+    "city": "Newport News",
+    "state": "VA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Point on Piccadilly",
+    "city": "Roanoke",
+    "state": "VA",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Battenkill Stitchery",
+    "city": "Arlington",
+    "state": "VT",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Charleston Needlepoint",
+    "city": "Charleston",
+    "state": "WV",
+    "url": null,
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Creative Needle Arts",
+    "city": "Gulf Shores",
+    "state": "AL",
+    "url": "creativeneedlearts.com",
+    "hours_value": "Tues, Weds, Fri, Sat 10am-4pm, Thurs 1pm-7pm",
+    "phone_value": "(251) 223-6146",
+    "ig_value": "https://www.instagram.com/creativeneedlearts/?hl=en"
+  },
+  {
+    "shop_name": "Grits Needlepoint",
+    "city": "Homewood",
+    "state": "AL",
+    "url": "www.gritsneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needleworks of Alabama / Grits Needlepoint",
+    "city": "Homewood",
+    "state": "AL",
+    "url": "www.gritsneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needle Bug",
+    "city": "Montgomery",
+    "state": "AL",
+    "url": "www.theneedlebug.com",
+    "hours_value": "Tues-Fri 10am-4pm",
+    "phone_value": "(334) 270-0064",
+    "ig_value": "https://www.instagram.com/theneedlebug/"
+  },
+  {
+    "shop_name": "Magic City Needlepoint",
+    "city": "Vestavia Hills",
+    "state": "AL",
+    "url": "www.magiccityneedlepoint.com",
+    "hours_value": "Tues, Thurs, Fri 10am-4pm, Wed 10am-6pm, Sat 10am-3pm",
+    "phone_value": "(205) 721-7277",
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Yarn Mart",
+    "city": "Little Rock",
+    "state": "AR",
+    "url": "www.yarnmart.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Family Arts Needlework Shop",
+    "city": "Phoenix",
+    "state": "AZ",
+    "url": "www.familyartsaz.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Be Stitched Needlepoint",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "url": "www.bestitchedneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Old Town Needlework",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "url": "www.oldtownneedlework.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Quail Run Needlework",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "url": "www.quailrunneedlework.com",
+    "hours_value": "Mon-Fri 10am-4pm, Sat 10am-2pm",
+    "phone_value": "480-551-1423",
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Busy Needle",
+    "city": "Tucson",
+    "state": "AZ",
+    "url": "www.busyneedle.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The West, Inc.",
+    "city": "Tucson",
+    "state": "AZ",
+    "url": "www.thewestinc.com",
+    "hours_value": "Mon-Sat 10am-4pm",
+    "phone_value": "(520) 299-1044",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle in a Haystack (Alameda)",
+    "city": "Alameda",
+    "state": "CA",
+    "url": "www.needlestack.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Auburn Needleworks",
+    "city": "Auburn",
+    "state": "CA",
+    "url": "www.auburnneedleworks.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Flying Fuzzies",
+    "city": "Cambria",
+    "state": "CA",
+    "url": "www.flyingfuzzies.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Garden Gate Needlepoint",
+    "city": "Covina",
+    "state": "CA",
+    "url": "www.gardengateneedlepoint.com",
+    "hours_value": "g New Canvases This Month! by Officially Needlepoint Shop Snoopy 2025 Trunk Show Schedule Join us at our trunk show, online or in-person! 2025 Schedule Amazing Needlepoint Finishing Natural pumpkin stem... silk leaves and autumn embellishments! See finishing examples No 1 in Customer Service Come on by or give us a call! We would love to help you with your next needlepoint masterpiece! (626) 966-4141 1 / of 4 Shop Our Needlepoint Collections Needlepoint Clearance Sale Needlepoint Clearance Sale Stockings Stockings Pillows Pillows Ornaments Ornaments Eyeglasses Case Eyeglasses Case Beach Beach View all Shop With Us Free Shipping to All 48 Contiguous states Safe Payments Guaranteed Premium Needlepoint Canvases Our Newest Additions Snoopy in Puffer Coat Sale Snoopy in Puffer Coat Regular price $92.00 USD Regular price $102.00 USD Sale price $92.00 USD Unit price / per Sale Woodstock in Stocking Cap Sale Woodstock in Stocking Cap Regular price $92.00 USD Regular price $102.00 USD Sale price $92.00 USD Unit price / per Sale Joe Cool Joe Cool Regular price $102.00 USD Regular price Sale price $102.00 USD Unit price / per Snoopy in Lit Doghouse Sale Snoopy in Lit Doghouse Regular price $150.00 USD Regular price $164.00 USD Sale price $150.00 USD Unit price / per Sale Woodstock in Puffer Coat Sale Woodstock in Puffer Coat Regular price $92.00 USD Regular price $102.00 USD Sale price $92.00 USD Unit price / per Sale Snoopy with Stocking Cap Sale Snoopy with Stocking Cap Regular price $92.00 USD Regular price $102.00 USD Sale price $92.00 USD Unit price / per Sale Pickleball Snoopy Pickleball Snoopy Regular price $101.00 USD Regular price Sale price $101.00 USD Unit price / per Snoopy Joe Cool Sale Snoopy Joe Cool Regular price $92.00 USD Regular price $105.00 USD Sale price $92.00 USD Unit price / per Sale Woodstock with Flag Sale Woodstock with Flag Regular price $83.00 USD Regular price $102.00 USD Sale price $83.00 USD Unit price / per Sale Snoopy with Flag Sale Snoopy with Flag Regular price $92.00 USD Regular price $102.00 USD Sale price $92.00 USD Unit price / per Sale Woodstock Graduation Dance Sale Woodstock Graduation Dance Regular price $92.00 USD Regular price $102.00 USD Sale price $92.00 USD Unit price / per Sale Snoopy Graduation Dance Sale Snoopy Graduation Dance Regular price $94.00 USD Regular price $102.00 USD Sale price $94.00 USD Unit price / per Sale View all Our Happy Customers Amy F. Review from Yelp ★★★★★ \"Wow, just wow! I read the reviews to see if it was worth the drive since I'm only in this area for a couple of hours on business. Everyone always mentions something nice about Carol the owner ---- and they ARE SPOT ON! From the moment I walked in I felt like I was someone special. So many fibers to...\" Read More David G. Review from Yelp ★★★★★ \"I am not a crafty nor a needlepoint kind of guy. My experience with Garden Gate is solely with the owner Carole R. Carole is a member of BSF International, and has made her shop available for other members to acquire the printed materials needed for the year-long study, AND at an extremely fair price point. It was a ...\" Read More Trixi C. Review from Yelp ★★★★★ \"It is too bad there is no picture of the shop or the owner. This has been my home away from home! Carol, the owner, is a delight and loved by all! Her teachers are fabulous and so is her finisher. I have been driving to this place for classes from Mission Viejo for years. They have lots of 'stuff' and Carol is very conscious of ...\" Read More Average Rating: 4.9 out of 5 (based on 14 reviews) Sourced From About Us Garden Gate Needlepoint is your trusted source for needlepoint canvases both online and in-store. Since 1976 , we’ve been providing high-quality hand-painted canvases, fibers, and needlepoint accessories to needlepoint enthusiasts. We have informative in-person classes throughout the week. Your finished canvases can be framed to add to the beauty of your home, or if you prefer, finished by JRG Designs, our in-house finisher, who creates masterpieces exclusively for Garden Gate. We proudly carry quality supplies, including beautiful hand-painted canvasses, a wonderful selection of books and other supplies and, of course, an outstanding array of fibers. Garden Gate Needlepoint has been the cornerstone of all things needlepoint since 49 years and counting . Shop Needlepoint Canvases JOIN OUR MONTHLY EMAIL BLAST! Sign up with your email address to receive news and updates. Email Ring us up! We're THRILLED to address your queries or aid in your canvas hunt! (626) 966-4141 Join Us at Garden Gate Sun & Mon - Closed Tue thru Fri - 10-4 Saturday - 10-2 236 N. Citrus Ave Covin",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoints, Ltd.",
+    "city": "Garden Grove",
+    "state": "CA",
+    "url": "www.needlepointsltd.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle Nook of La Jolla",
+    "city": "La Jolla",
+    "state": "CA",
+    "url": "www.needlenookoflajolla.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoints West",
+    "city": "Los Angeles",
+    "state": "CA",
+    "url": "www.needlepointswest.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Old World Designs",
+    "city": "Menlo Park",
+    "state": "CA",
+    "url": "www.oldworlddesigns.com",
+    "hours_value": "Mon-Sat 10am -4pm",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle in a Haystack (Montrose)",
+    "city": "Montrose",
+    "state": "CA",
+    "url": "www.needleinahaystackmontrose.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "2 The Point",
+    "city": "Pleasanton",
+    "state": "CA",
+    "url": "www.2needlepoint.com",
+    "hours_value": "By Appointment Only",
+    "phone_value": "(925) 461-8664",
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needlepointer (Sacramento)",
+    "city": "Sacramento",
+    "state": "CA",
+    "url": "www.theneedlepointer.com",
+    "hours_value": "ip within about one month. Shop now Explore our abundant threads Immerse yourself in a world of endless color and texture. From silky cottons to rich wools, each thread is thoughtfully crafted to inspire creativity and elevate every stitch. Add Threads Stitch-to-finish Stitch-to-Finish is our signature innovation that combines stitching and finishing in one seamless experience. Each kit includes coordinated materials, guided instructions, and our patent-pending self-finishing system, allowing you to create a beautifully finished piece from the first stitch to the final detail—no professional finishing required. Shop now ACCESSORIES Essential tools for effortless needlepoint — laying tools, stretcher bars, needles, nails, and scissors designed for precision, ease, and finesse. Shop now Customer Support Customer Support Contact Us Reward Program Shipping & Order Policy Programs & Service Programs & Service Monthly Trunk Show Finishing Service Subscription Box Our Newsletter - Get Updates, Offers and Invites. Email Showroom: 1944 Terracina Dr., Sacramento, CA 95834 Hours: 10am - 4pm Mon-Fri Stay Connected © 2026 The Needlepointer Priva",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint, Inc.",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "www.needlepointinc.com",
+    "hours_value": "lternative Icon New Hours In-Store New Hours In-Store Arrow Thin Left Icon Arrow Thin Right Icon One of a kind Canvases Hand-painted canvases only available at Needle",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Luv 2 Stitch",
+    "city": "San Mateo",
+    "state": "CA",
+    "url": "luv2stitch.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Come to the Point",
+    "city": "San Rafael",
+    "state": "CA",
+    "url": "www.cometothepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Aristeia Needlepoint",
+    "city": "Santa Monica",
+    "state": "CA",
+    "url": "www.aristeianeedlepoint.com",
+    "hours_value": "Mon - Fri 10am - 4pm, Saturdays 10am - 5pm",
+    "phone_value": "(310)-260-6330",
+    "ig_value": null
+  },
+  {
+    "shop_name": "NeedleHearts",
+    "city": "Tarzana",
+    "state": "CA",
+    "url": "www.needlehearts.com",
+    "hours_value": "ct to change Hours: Monday 10:00 a.m. to 2:00 p.m. Tuesday 10:00 p.m. to 2:00 p.m. Wednesday 10:00 a.m. to 3:30 p.m. Thursday 10:00 a.m. to 1:00 p.m. Friday 10:00 a.m. to 1:00 p.m. Saturday 10:00 a.m. to 2:00 p.m. Closed Sundays Close × OK Navigate Classes Designers Threads Shipp",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Eva's Needlework",
+    "city": "Thousand Oaks",
+    "state": "CA",
+    "url": "www.evasneedlework.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Sit 'N Stitch",
+    "city": "Toluca Lake",
+    "state": "CA",
+    "url": "www.sitnstitch.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Concepts in Yarn & Needlepoint",
+    "city": "Torrance",
+    "state": "CA",
+    "url": "www.conceptsinyarn.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "A Stitching Shop",
+    "city": "Denver",
+    "state": "CO",
+    "url": "www.stitchingshop.com",
+    "hours_value": "Mon – Sat 10:00 a.m. - 5:00 p.m.",
+    "phone_value": "(303) 727-8500",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Downing Street Needlepoint",
+    "city": "Denver",
+    "state": "CO",
+    "url": "downingstreetneedlepoint.com",
+    "hours_value": "t Close search Home Hours & Class Schedule Subscribe To Our Monthly Newsletter Stay up to date about our trunk shows, stitch of the month, and exclusive club updates.",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Diversions Needlepoint",
+    "city": "Englewood",
+    "state": "CO",
+    "url": "www.diversionsneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "House of Needlepoint",
+    "city": "Darien",
+    "state": "CT",
+    "url": "www.houseofneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Village Ewe",
+    "city": "Old Greenwich",
+    "state": "CT",
+    "url": "www.thevillageewe.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint, Needlepoint & More Needlepoint",
+    "city": "Westport",
+    "state": "CT",
+    "url": "www.tnsct.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Thistle Needleworks",
+    "city": "Wethersfield",
+    "state": "CT",
+    "url": "www.thistleneedleworks.com",
+    "hours_value": "Tues-Fri 9:30am-5:30pm, Sat 9:30am-4pm",
+    "phone_value": "860-257-2718",
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Enriched Stitch",
+    "city": "Wilton",
+    "state": "CT",
+    "url": "www.enrichedstitch.com",
+    "hours_value": "online at least 24 hours in advance and select which day you plan to attend Available January Dates 1/14, 1/16, 1/28, 1/30 Content1 Whether you're an avid needlepoin",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Point of It All",
+    "city": "Washington",
+    "state": "DC",
+    "url": "www.thepointofitallonline.com",
+    "hours_value": "Tues-Sat 10am-4pm",
+    "phone_value": "202-966-9898",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch-Stash",
+    "city": "Rehoboth Beach",
+    "state": "DE",
+    "url": "www.stitch-stash.com",
+    "hours_value": "Tues-Sat 11am - 4pm",
+    "phone_value": "(302) 569-0063",
+    "ig_value": "https://www.instagram.com/stitchstashneedlepoint/"
+  },
+  {
+    "shop_name": "The Jolly Needlewoman",
+    "city": "Wilmington",
+    "state": "DE",
+    "url": "www.jollyneedlewoman.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle Orts",
+    "city": "Altamonte Springs",
+    "state": "FL",
+    "url": "www.needleorts.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Flying Needles",
+    "city": "Belleair Bluffs",
+    "state": "FL",
+    "url": "www.theflyingneedles.com",
+    "hours_value": "WEDNESDAY - SATURDAY 10AM TO 4PM SHOP OUR MARCH TRUNK SHOW- G BANKS NEEDLEPOINT - 20%",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Grande Stitches",
+    "city": "Boca Grande",
+    "state": "FL",
+    "url": "grandestitches.com",
+    "hours_value": "you visit us! Store Hours: Monday, Thursday – Saturday 10:00 a.m. – 2:00 p.m. Grande Stitches is also open by appointment.   Please call or email to schedule a time co",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Radish Roots Needlepoint",
+    "city": "Bunnell",
+    "state": "FL",
+    "url": "radishrootsneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitches by the Sea",
+    "city": "Delray Beach",
+    "state": "FL",
+    "url": "stitchesbythesea.us",
+    "hours_value": "Tues 10am–6pm, Weds-Sat 10am – 4pm",
+    "phone_value": "561-865-5775",
+    "ig_value": "@StitchesbytheSea"
+  },
+  {
+    "shop_name": "Bristly Thistle",
+    "city": "Fernandina Beach",
+    "state": "FL",
+    "url": "www.bristlythistle.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "A Stitch in Time (Jacksonville)",
+    "city": "Jacksonville",
+    "state": "FL",
+    "url": "www.astitchintime.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint Alley",
+    "city": "Lake Park",
+    "state": "FL",
+    "url": "www.needlepointalley.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Absolutely Needlepoint (Miami)",
+    "city": "Miami",
+    "state": "FL",
+    "url": "www.absolutelyneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint in Paradise",
+    "city": "Naples",
+    "state": "FL",
+    "url": "www.needlepointinparadise.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Black Sheep",
+    "city": "Orlando",
+    "state": "FL",
+    "url": "www.theblacksheepshop.com",
+    "hours_value": "Our store hours are 10 a.m. - 4 p.m. Monday - Friday and 10 a.m. - 2 p.m. on Saturday Call us at 407-894-0444 Email us at hello@theblacksheepshop.com",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint Studio of Sarasota",
+    "city": "Sarasota",
+    "state": "FL",
+    "url": "www.needlepointstudio.com",
+    "hours_value": "Name Email Address Message Submit",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Morgan Julia Designs (St. Pete Studio)",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "url": "morganjuliadesigns.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint Land",
+    "city": "Stuart",
+    "state": "FL",
+    "url": "www.needlepointland.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Knot the Point",
+    "city": "Tampa",
+    "state": "FL",
+    "url": "www.knotthepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint Ivy",
+    "city": "Venice",
+    "state": "FL",
+    "url": "www.needlepointivy.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle Nicely",
+    "city": "Vero Beach",
+    "state": "FL",
+    "url": "www.needlenicely.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Novella Needlepoint",
+    "city": "Winter Park",
+    "state": "FL",
+    "url": "novellaneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Atlanta Needlepoint & Monogramming",
+    "city": "Atlanta",
+    "state": "GA",
+    "url": "www.atlantaneedlepointandmonogramming.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "In Stitches (Atlanta)",
+    "city": "Atlanta",
+    "state": "GA",
+    "url": "www.institchesatlanta.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Labors of Love Needlepoint",
+    "city": "Atlanta",
+    "state": "GA",
+    "url": "laborsofloveneedlepoint.shop",
+    "hours_value": "Enter email here Subscribe to receive exclusive deals, news, and events.",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Cast-On Cottage",
+    "city": "Roswell",
+    "state": "GA",
+    "url": "www.castoncottage.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Nimble Needle (Sandy Springs)",
+    "city": "Sandy Springs",
+    "state": "GA",
+    "url": "www.atlantanimbleneedle.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Savannah Needlepoint",
+    "city": "Savannah",
+    "state": "GA",
+    "url": "www.savannahneedlepoint.com",
+    "hours_value": "ook Instagram Store Hours Sunday: Closed Monday: Closed Tuesday: 10-5 Wednesday: 10-6 Thursday: 10-6 Friday: 10-5 Saturday: 10-4 Subscribe to our emails Email Faceboo",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint, Etc.",
+    "city": "Honolulu",
+    "state": "HI",
+    "url": "www.needlepointhi.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint Beach",
+    "city": "Des Moines",
+    "state": "IA",
+    "url": "www.needlepointbeach.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Maydel",
+    "city": "Chicago",
+    "state": "IL",
+    "url": "maydel.com",
+    "hours_value": "open from 11am–4pm Thursday, Fridays, and Saturdays, and by appointment from 10am–4pm Mondays, Tuesdays, and Wednesdays. We’re closed on Sund",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Third Coast Stitches",
+    "city": "Chicago",
+    "state": "IL",
+    "url": "thirdcoaststitches.com",
+    "hours_value": "Tues, Weds, Fri 12pm-5pm, Thurs 2pm-8pm, Sat 11am-5pm, Sun 11am-4pm",
+    "phone_value": "312-285-2221",
+    "ig_value": "https://www.instagram.com/thirdcoaststitches/"
+  },
+  {
+    "shop_name": "Designers Desk",
+    "city": "Geneva",
+    "state": "IL",
+    "url": "www.designersdeskusa.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Forest Needle",
+    "city": "Lake Forest",
+    "state": "IL",
+    "url": "www.forestneedle.com",
+    "hours_value": "Tues-Fri 11am-5pm, Sat 11am-3pm",
+    "phone_value": "847-235-2407",
+    "ig_value": "https://www.instagram.com/theforestneedle/"
+  },
+  {
+    "shop_name": "Stitchers Garden",
+    "city": "Naperville",
+    "state": "IL",
+    "url": "www.stitchersgardenil.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Emily's Stitchery / North Shore Needleworks",
+    "city": "Northbrook",
+    "state": "IL",
+    "url": "www.emilysstitchery.com",
+    "hours_value": "Cart Add to Cart Lemon Blues Tea Regular price $280.88 2026 Classes Sign Up Today.  Email us to be put on a waiting list. 2026 Classes Add to wishlist Quick view Add to Cart Add to Cart Beginner Needlepoint - 4/12/2026 Regular price $75.00 Add to wishlist Quick view Add to Cart Add to Cart Fabulous Fanny Flamingo Kit Regular price $600.00 Sold out Add to wishlist Quick view Beginner Needlepoint - 3/8/2026 Regular price $75.00 Sold out Add to wishlist Quick view Beginner Needlepoint - 2/8/2026 Regular price $75.00 Add to wishlist Quick view Add to Cart Add to Cart Flower Party w/ Audra Deposit May 2026 Regular price $250.00 Follow us Check out Emily's Exclusives Stitch Guides Clubs Canvases Sign up now & get 10% off Subscribe to our newsletter to hear the latest about classes, trunk shows, new products, and sales Subscribe Up your stitching game with national experts We offer project-based and embellishment classes at least once a month. Flower Party with Audra! Join the Class Fabulous Fanny Flamingo with Kelly Clark Join the Class Stitch Lab Join the class Our Classroom is open! Local teachers are in the shop four days a week. Weekly schedule: Monday: Embellishment with Linda Corirossi 1:00-3:00 pm $35 Tuesday: Open stitch with Chris McCoy 1:00-3:00 pm $25",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Canvasback",
+    "city": "Northfield",
+    "state": "IL",
+    "url": "www.canvasback-needlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Classic Stitch",
+    "city": "Winnetka",
+    "state": "IL",
+    "url": "www.theclassicstitch.com",
+    "hours_value": "iffin - 20% off all month Beginner Classes: Saturday, March 14 10:00-noon Embellishment Classes: Wednesdays 1:00 - 3:00 p.m. Saturday, March 7 10:30 - 12:30 Sip & Stitch Wednesday, March 18 6-8pm Please join us! Call to sign up! 847-881-2930 Beginner Clas",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitches from the Heart",
+    "city": "Evansville",
+    "state": "IN",
+    "url": "www.stitches-heart.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Red Rooster Stitchery",
+    "city": "Newburgh",
+    "state": "IN",
+    "url": "www.redroosterstitchery.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Persnickety Stitchers",
+    "city": "Zionsville",
+    "state": "IN",
+    "url": "www.persnicketystitchers.com",
+    "hours_value": "Tues-Wed, Fri 10am-5pm, Thurs 2pm-8pm, Sat 10am-4pm",
+    "phone_value": "317-873-5010",
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Studio Knitting & Needlepoint",
+    "city": "Overland Park",
+    "state": "KS",
+    "url": "www.thestudiokc.com",
+    "hours_value": "Mon-Sat 11am-3pm",
+    "phone_value": "816-531-4466",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Two the Point Needlearts",
+    "city": "Overland Park",
+    "state": "KS",
+    "url": "www.twothepointneedlearts.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "M's Canvashouse",
+    "city": "Lexington",
+    "state": "KY",
+    "url": "www.mscanvashouse.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch Therapy Needleworks",
+    "city": "Lexington",
+    "state": "KY",
+    "url": "www.stitchtherapyneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitching Therapy Needlepoint",
+    "city": "Lexington",
+    "state": "KY",
+    "url": "www.stitchtherapyneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Beth's Needlepoint Nook / Stitchen Time",
+    "city": "Louisville",
+    "state": "KY",
+    "url": "www.bethsneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch - A Needlepoint Shop",
+    "city": "Louisville",
+    "state": "KY",
+    "url": "www.stitchneedlepointshop.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch – A Needlepoint Shop",
+    "city": "Louisville",
+    "state": "KY",
+    "url": "www.stitchneedlepointshop.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle Nest (Shelbyville)",
+    "city": "Shelbyville",
+    "state": "KY",
+    "url": "www.needlenestky.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Elegant Needle",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "url": "www.theelegantneedle.com",
+    "hours_value": "Needlepoint HOURS: Wed 10-6  |  Thu-Fri 10-4  |  Sat 11-3 Notice: in instances of inclement weather, when state offices are closed we will be as well. (225) 925-8920 phone (225) 925-8921 fax",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch and Frame of Acadiana",
+    "city": "Broussard",
+    "state": "LA",
+    "url": "stitchandframeacadiana.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Quarter Stitch",
+    "city": "New Orleans",
+    "state": "LA",
+    "url": "www.quarterstitch.com",
+    "hours_value": "Mon-Sun 10am-6pm",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Hanging by a Thread",
+    "city": "Shreveport",
+    "state": "LA",
+    "url": "www.hangingbyathreadshreveport.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch Boutique of Boston",
+    "city": "Boston",
+    "state": "MA",
+    "url": "www.stitchboutiqueofboston.com",
+    "hours_value": "Mon-Tues 11am-4pm, Weds 11am-7:30pm, Thurs-Sat 11am-4pm",
+    "phone_value": "617-236-4633",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Hingham Square Needlepoint",
+    "city": "Hingham",
+    "state": "MA",
+    "url": "www.hinghamsquareneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Osterville Needlepoint Shop",
+    "city": "Marstons Mills",
+    "state": "MA",
+    "url": "www.ostervilleneedlepointshop.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "B.F. Goodstitch",
+    "city": "Salem",
+    "state": "MA",
+    "url": "www.bfgoodstitch.net",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Wellesley Needlepoint Collection",
+    "city": "Wellesley",
+    "state": "MA",
+    "url": "www.wellesleyneedlepoint.com",
+    "hours_value": "Tues-Sat 10am-3pm",
+    "phone_value": "781-721-1929",
+    "ig_value": null
+  },
+  {
+    "shop_name": "B's Stitches Fine Needlecrafts",
+    "city": "St. Michaels",
+    "state": "MD",
+    "url": "www.b-stitches.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Hillside Needlepoint",
+    "city": "Stevenson",
+    "state": "MD",
+    "url": "www.hillsideneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitchery Square",
+    "city": "Camden",
+    "state": "ME",
+    "url": "www.stitcherysquare.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Grace Robinson and Company",
+    "city": "Freeport",
+    "state": "ME",
+    "url": "www.yarnandneedlepoint.com",
+    "hours_value": "Tuesday - Saturday: 10AM - 3:30PM Sunday and Monday: Closed",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Peacock Alley Needlepoint",
+    "city": "Ada",
+    "state": "MI",
+    "url": "www.peacockalleyneedlepoint.com",
+    "hours_value": "Mon-Fri  10am-4:30pm, Sat 12pm-3pm",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needleworks (Birmingham)",
+    "city": "Birmingham",
+    "state": "MI",
+    "url": "www.eneedleworks.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Homestead Needle Arts",
+    "city": "Grand Blanc",
+    "state": "MI",
+    "url": "www.homesteadneedlearts.com",
+    "hours_value": "Wednesday, Friday, Saturday 10-4.  Closed Sundays, Mondays and Thursdays.  If the weather is bad, ple",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Wool & The Floss",
+    "city": "Grosse Pointe",
+    "state": "MI",
+    "url": "www.thewoolandthefloss.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Knotted Needle",
+    "city": "Grosse Pointe Woods",
+    "state": "MI",
+    "url": "www.knottedneedle.com",
+    "hours_value": "ointments available Monday Closed Tuesday to Saturday 11:30 am - 4 pm Sunday Closed Contact U",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Crafty Lady Trio",
+    "city": "Macomb",
+    "state": "MI",
+    "url": "www.craftyladytrio.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Picket Fence",
+    "city": "Edina",
+    "state": "MN",
+    "url": "www.thepicketfenceinc.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "3 Kittens Needle Arts",
+    "city": "Mendota Heights",
+    "state": "MN",
+    "url": "www.3kittensneedlearts.com",
+    "hours_value": "Tues-Sat 10am - 3pm",
+    "phone_value": "(651) 457-4969",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlework Unlimited",
+    "city": "Minneapolis",
+    "state": "MN",
+    "url": "www.needleworkunlimited.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitchville USA",
+    "city": "Minnetonka",
+    "state": "MN",
+    "url": "www.stitchville.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "KC Needlepoint",
+    "city": "Kansas City",
+    "state": "MO",
+    "url": "www.kcneedlepoint.com",
+    "hours_value": "Boots Crests Custom Monogram Pillow Florals Food For The Bar Herend Inspired Canvases with Monograms Pillows Pineapples Rugs Signs & Sayings Square Self Finishing Inserts Topiaries Western Other Holidays Back to School Cinco de Mayo Easter Father's Day Halloween Mardi Gras New Year Patriotic Thanksgiving Valentine's Day Wedding/Engagement St Patrick's Day Spiritual Judaica Religious Baby/Juvenile Baby Mini Socks Baby Ornament Canvases Baby Sleeping Signs SORORITIES/FRATERNITIES Greek Round Canvases Greek Round Key Fobs Greek Travel Tags SPORTS Boating Football Golf Swimming Soccer Tennis Canvases by Artist + Artists A-C A Stitch In Time Abigail Cecile Alexa Alice & Blue Alice Peterson Needlepoint Allison Ivy Designs Ampersand Ann Kaye Studio Anne Fisher Associated Talents Audrey Wu August Morgan Bam Let's Mahjong! Barbara Pixton Bauble Stockings Birds of a Feather Blue Ridge Stitchery Burnett & Bradley CBK Designs Charlie Harper Coco Frank Studio Colors of Praise Cooper Oaks Designs Artists D-L Danji Designs Dogwood Needlepoint Doolittle Stitchery ELF Needlepoint Elizabeth Crane Swartz Emily Peacock Fire and Iris Designs Giddy Paperie goodpoint Hedgehog Needlepoint Heidi Stanley Designs Heirloom Textile Co. Hello Tess Designs Hook & Harbor Co. Initial K Studio J. Child Designs Jennifer Hall Jessica Lehane Kangaroo Paws Kathy Schenkel KCN Designers Kirk & Bradley Lauralove Designs Lauren Bloch Designs Le Point Studio Lee's Needle Arts Lemon Daisy Liesel Anne Studios Lo Harris Lovevolve love mhb studio Artists M-R MA Designs Melissa Shirley MM Designs Mrs. Blandings Moo Moo Designs Mopsey Designs Morgan Julia Designs Needle Crossings Pearly Gates Penny Linn Designs Pepperberry Designs Poppy's Designs Presley Goode Princess & Me Rachel Barri Rachel Donley Rebecca Wood Artists S-Z Sailor Stitches Saturnalia Stitching SCT Designs Silver Needle Silver Stitch Needlepoint SLS Needlepoint Spellbound Stitchery Spruce St. Studio Stitch-Its Stitch Rock Designs Stitch Style Susan Cowden Susan Roberts Taylor Beach The Gingham Stitchery The Makers Marks The Meredith Collection The Plum Stitchery Thorn Alexander Tina Griffin Designs What's the Stitch Wipstitch Needleworks Ziggy Stitches Fibers + Fibers A-E Accentuate Alpaca Angora Appleton Crewel Wool Appleton Tapestry Wool Arctic Rays Bella Lusso Wool Bisous Bouclé Capri Crystal Braid DMC 3 Pearl Cotton DMC 5 Pearl Cotton Entice Essentials 10yd Card Essentials 30yd Skein Eyelash Fibers F-O Flair Frosty Rays Fluffy Fleece Fuzzy Stuff Fyre Werks Fyre Werks Soft Sheen Glisten Gold Rush Grandeur Kreinik Mandarin Floss Milan Skeins Milan Cards Neon Rays Neon Rays+ Fibers P-R Painter's Shimmer Panache Pepper Pot Silk 30yd Skein Pepper Pot Silk 10yd Card Petite Frosty Rays Petite Silk Lame Braid Petite Sparkle Rays Petite Very Velvet Planet Earth 6 Ply Variegated Planet Earth Silk Planet Earth Wool Radiance for 13 mesh Radiance for 18 mesh Rainbow Linen Reflections Fibers S-Z Silk & Ivory Silk Lamé Braid for 13 Mesh Silk Lame Braid for 18 Mesh Silk Ribbon 4mm Silk Ribbon 7mm Soie Tissée Sparkle Rays Splendor Stardust ThreadworX Cotton Floss ThreadworX Overdyed Legacy ThreadworX Overdyed Metallic Very Velvet Vineyard Merino Wool Vineyard Silk Cards Vineyard Silk Skeins Water n' Ice Watercolours Wisper Winter Accessories & More + Bags Beading Supplies Books Finished Products Gift Cards Laying Tools Leather Goods Lights Needles Needle Minders Needle Threaders Paper Goods Self Finishing Accessories Scissors Stretcher Bars Clothing Learn + BLOG FIBER FACTS BACK TO BASICS Continental Stitch Basketweave Stitch Needlepoint Stretcher Bar Assembly Putting Needlepoint Canvas on Stretcher Bars CLASSES THE STITCH VAULT Gift Cards SALE Load slide 1 of 3 Load slide 2 of 3 Load slide 3 of 3 Previous Next Previous New needlepoint canvases! Next View all Trust Angel Canvas $ 65.00 Forgive Angel Canvas $ 65.00 Grace Angel Canvas $ 65.00 Chickadee Patriotic House Canvas $ 95.00 Apple Pie Canvas $ 75.00 Winter Cardinals Canvas $ 178.00 Monarch Butterfly Canvas $ 50.00 Lemon Canvas $ 50.00 Beach Bound Canvas $ 50.00 Out of Stock Candy Corn Stamp Canvas $ 45.00 Out of Stock I'll Be Gnome for Christmas Canvas $ 105.00 Jumping Bunnies Canvas $ 105.00 Out of Stock Beach Round Canvas $ 69.00 Out of Stock Out of Stock La Dolce Vita Lemons Canvas $ 75.00 Out of Stock Out of Stock Shark Tooth Round Canvas $ 75.00 Out of Stock Shiny Brites Box Canvas $ 62.00 Trick or Treat Canvas $ 85.00 Put It On My Tab Canvas $ 60.00 Tennis Whites Canvas $ 60.00 Two Zebras Canvas $ 85.00 Previous Get all the help you need on your next needlepoint project. Shop kits! Next View all Our Initial Thought - Bag/Luggage Tag Kit (Rosy Cheeks) $ 95.00 Out of Stock Beach Bliss Bag/Luggage Tag Kit $ 95.00 Out of Stock Out of Stock Ski Scene Bag/Luggage Tag Kit $ 95.00 Out of Stock Out of Stock Tropical Serenity Bag Tag/Key Fob Kit $ 70.00 Out of Stock Out of Stock Plaid Circle Bag Tag/Fob Kit $ 70.00 Out of Stock On The Surf Coaster Kit $ 95.00 Out of Stock Bamboo Eyeglass Case Kit $ 95.00 Out of Stock Out of Stock Trio of Seashells Eyeglass Case Kit $ 95.00 Out of Stock Out of Stock Peace Out Bag Tag/Key Fob Kit $ 70.00 Out of Stock Out of Stock Cocktail Celebration Eyeglass Case Kit $ 95.00 Out of Stock Out of Stock Moon Face Bag Tag/Key Fob Kit $ 70.00 Out of Stock Out of Stock Moody Mountains Coaster Kit $ 95.00 Out of Stock Out of Stock Lovevolve Bag/Luggage Tag Kit $ 95.00 Out of Stock Bloom and Express Bag/Luggage Tag Kit $ 95.00 CIAO Bag/Luggage Tag Kit $ 95.00 Out of Stock Oh, Heavens! Kit $ 70.00 Out of Stock The Mahj Bag Tag/Key Fob Kit $ 70.00 Out of Stock Home Sweet Home Kit $ 70.00 Out of Stock Zebra Dot Bag Tag/Key Fob Kit $ 70.00 On the Surf Bag/Luggage Tag Kit $ 95.00 Get exclusive access to needlepoint products and sales! Do you want access to discounts and exclusive products? Sign up to receive text messages from KC Needlepoint! Click to sign up! About KC Needlepoint KC Needlepoint is your one stop needlepoint shop for all of your stitching needs! Whether you are a seasoned stitcher or are looking for your very first needlepoint project, you will be able to find something you love at KC Needlepoint. If you're looking to take the guesswork out of your next project, purchase one of our premade needlepoint kits, available in a variety of different skill levels. Alternatively, peruse through different canvas themes and choose from over 10,000 different designs available online. When you have picked out your canvas, we are ready to help you select threads from a variety of wools, silks, cottons and other specialty fibers to make your project truly one of a kind! When you have finished stitching your needlepoint project, contact us to discuss the wide range of finishing options we have to offer. No matter where you live, KC Needlepoint offers free USPS shipping on every order shipped within the United States. If you are local to the Kansas City area, swing by and visit us in our retail shop at 8050 Wornall Road.  We can't wait to help you find your next needlepoint project! Visit us at our retail needlepoint shop! We'd love to meet you in person! 8050 Wornall Road, Kansas City, MO 64114 Shop hours: Tuesday-Friday 10:00am-4:00pm Saturday 10:00am-3:00pm Gift Card Our Location Conta",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Sign of the Arrow",
+    "city": "St. Louis",
+    "state": "MO",
+    "url": "www.signofthearrow.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The First & Last Stitch",
+    "city": "St. Louis",
+    "state": "MO",
+    "url": "www.firstandlast.com",
+    "hours_value": "Your personal information Close Fill-in your basic information to submit the offer for firstandlast.com First name * Required field Last name * Required field Email * Email address is not valid Phone Number * 000 Select country Close After entering your personal info you will be redirected to spaceship.com where you can negotiate the purchase of this domain. Submit offer",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needlepoint Clubhouse",
+    "city": "St. Louis",
+    "state": "MO",
+    "url": "www.stlneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The French Knot (Diamondhead)",
+    "city": "Diamondhead",
+    "state": "MS",
+    "url": "www.frknot.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Natchez Needle Arts",
+    "city": "Natchez",
+    "state": "MS",
+    "url": "www.natchezneedlearts.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Chapel Hill Needlepoint",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "url": "chapelhillneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Po's Point",
+    "city": "Charlotte",
+    "state": "NC",
+    "url": "posneedlepoint.com",
+    "hours_value": "Tues- Sat 11am - 4pm",
+    "phone_value": "704-553-8777",
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needlecraft Center",
+    "city": "Davidson",
+    "state": "NC",
+    "url": "www.needlecraftcenter.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitching Chicks Needlepoint",
+    "city": "Hendersonville",
+    "state": "NC",
+    "url": "stitchingchicksneedlepoint.com",
+    "hours_value": "Store Location",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Personal Threads Boutique",
+    "city": "Omaha",
+    "state": "NE",
+    "url": "www.personalthreads.com",
+    "hours_value": "Mon-Fri 9am-6pm, Sat 9am-3pm Sunday: closed ",
+    "phone_value": "(402)391-7733",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Village Needleworks (Omaha)",
+    "city": "Omaha",
+    "state": "NE",
+    "url": "www.villageneedleworks.com",
+    "hours_value": "Tues-Sat 10am-3pm",
+    "phone_value": "(402) 391-1191",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Bay Head Needlepoint",
+    "city": "Bay Head",
+    "state": "NJ",
+    "url": "www.bayheadneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Gone Stitching",
+    "city": "Bergenfield",
+    "state": "NJ",
+    "url": "www.gonestitching.net",
+    "hours_value": "Email Newsletter Name Email * Phone number Comment Send",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Beyond Knits & Needles",
+    "city": "Caldwell",
+    "state": "NJ",
+    "url": "www.beyondknitsandneedles.net",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitching Pretty",
+    "city": "Eatontown",
+    "state": "NJ",
+    "url": "stitching-pretty.squarespace.com",
+    "hours_value": "7724 (732) 996-7376 Sunday 10:00 am - 2:00 pm Monday - Tuesday 10:00 am - 4:00 pm Wednesday 12:",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Threads Too Needlepoint",
+    "city": "Fair Haven",
+    "state": "NJ",
+    "url": "www.threads-too.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Nimble Needle (Haddonfield)",
+    "city": "Haddonfield",
+    "state": "NJ",
+    "url": "www.nimbleneedle.net",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Morgan Julia Designs (Jersey City)",
+    "city": "Jersey City",
+    "state": "NJ",
+    "url": "morganjuliadesigns.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Nimble Needle (Merchantville)",
+    "city": "Merchantville",
+    "state": "NJ",
+    "url": "www.nimbleneedlenj.com",
+    "hours_value": "Shop •Tues through Friday 12:00- 5:00 Saturdays 11:00-4:00 Mornings by Appointment Christmas Hours: Open Dec23 11:00-4:00 Closed Dec24-Jan1 •Email orders are welcome! sales@thenimbleneedle",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needleworker's Delight",
+    "city": "Metuchen",
+    "state": "NJ",
+    "url": "www.needleworkersdelight.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Scrim Discovery Needlepoint",
+    "city": "Ocean City",
+    "state": "NJ",
+    "url": "www.scrimdiscovery.com",
+    "hours_value": "Jersey,\nis just an hour from Philadelphia \nand 20 minutes north of Cape May. If you're in the \narea, w",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Knit One Stitch Too",
+    "city": "Pennington",
+    "state": "NJ",
+    "url": "www.k1st2.com",
+    "hours_value": "VISIT 16 N. Main St. Pennington, NJ. 08534 Get Directions HOURS Monday – Saturday 11:00AM to 5:00PM. Sunday 12-4pm. Closed major holidays and sundays in summer. CONTACT Main: (609) 737-2211 knitonestitchtoo@gmail.com Facebook Tiktok Instagram",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Ridgewood Needlepoint",
+    "city": "Wyckoff",
+    "state": "NJ",
+    "url": "www.ridgewoodneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Ladybug Stitches",
+    "city": "Bohemia",
+    "state": "NY",
+    "url": "www.ladybugstitches.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Expressions in Needleart",
+    "city": "Canandaigua",
+    "state": "NY",
+    "url": "www.expressionsinneedleart.com",
+    "hours_value": "Enter using password",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch by Stitch",
+    "city": "Larchmont",
+    "state": "NY",
+    "url": "www.stitchbystitchneedlepoint.com",
+    "hours_value": "Tues-Fri 10AM-4PM",
+    "phone_value": "914-834-1886",
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Red Thread Atelier",
+    "city": "Locust Valley",
+    "state": "NY",
+    "url": "www.theredthreadatelier.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needlepaint Nook",
+    "city": "Merrick",
+    "state": "NY",
+    "url": "www.theneedlepaintnook.com",
+    "hours_value": "il protected] Store Hours: Wednesday 10:30 – 5:00 Thursday 12:30 – 6:00 Friday 10:30 – 5:00 Saturday 10:30 – 2:30 Follow Follow Copyright © 2024 Needlepaint Nook | Cre",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Keep Me in Needlepoint",
+    "city": "Nesconset",
+    "state": "NY",
+    "url": "www.keepmeinneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Annie & Company",
+    "city": "New York",
+    "state": "NY",
+    "url": "www.annieandco.com",
+    "hours_value": "Monday - Friday 10:00 am - 6:00 pm, Saturdays 11:00 am - 5:00 pm, Sundays 12:00 pm - 5:00 pm",
+    "phone_value": "212) 360-7266 or (212) 289-2944",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Rita's Needlepoint",
+    "city": "New York",
+    "state": "NY",
+    "url": "www.ritasneedlepoint.com",
+    "hours_value": "10:30 am - 6:00 pm Thursday: 10:30 am - 6:00 pm Friday: 10:30 am - 6:00 pm Saturday: 10:30 am - 5",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "West Village Knit & Needle",
+    "city": "New York",
+    "state": "NY",
+    "url": "www.wvknitandneedle.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Bargello Needlepoint",
+    "city": "Tuckahoe",
+    "state": "NY",
+    "url": "www.bargello-needlepoint.com",
+    "hours_value": "Tues, Thurs, Fri 10–4pm, Wed 2pm-7:30pm, Sat 10–2pm",
+    "phone_value": "914-361-1014",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint Gallery & More",
+    "city": "Woodridge",
+    "state": "NY",
+    "url": "www.theneedlepointgallery.com",
+    "hours_value": "e shipped within 96-hours of order unless there is a holiday which will delay the shipping. CANADA SHIPPING: We ship USPS Standard to Canada If an item is out of stoc",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "I of the Needle",
+    "city": "Akron",
+    "state": "OH",
+    "url": "www.ioftheneedleakron.com",
+    "hours_value": "dleakron.com Hours: Tuesday-Saturday 10-4 Social Media Email Facebook Instagram Copyright © 2026 i of the needle . Powered by Shopify Cookies This website uses cookies to ensure you get the best experience on your device. Accept all cookies Decline all cookies cookies-popups-0 Pickup location i of the needle Free .\n                Usually ready in 24 hrs Store Hours Sun: Closed Mon-Fri: 9:00 - 17:00 Sat: 10:00 - 13:00 What to expect at",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Absolutely Needlepoint (Cincinnati)",
+    "city": "Cincinnati",
+    "state": "OH",
+    "url": "www.absolutelyneedlepointcincy.com",
+    "hours_value": "Monday – Friday 10-5 and Saturday 10-3",
+    "phone_value": "513-561-7999",
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Top Drawer",
+    "city": "Cincinnati",
+    "state": "OH",
+    "url": "www.topdrawer-needlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Wool & Willow Needlepoint",
+    "city": "Cleveland Heights",
+    "state": "OH",
+    "url": "www.woolandwillow.com",
+    "hours_value": "Tues–Fri 11am–5pm Sat 11am–4pm",
+    "phone_value": "216-791-7952",
+    "ig_value": "https://www.instagram.com/woolandwillowneedlepoint"
+  },
+  {
+    "shop_name": "Park Avenue Needlepoint",
+    "city": "Dayton",
+    "state": "OH",
+    "url": "www.parkavenueneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "What's the Point",
+    "city": "Dublin",
+    "state": "OH",
+    "url": "www.whatsthepoint.biz",
+    "hours_value": "Mon-Sat 10am-4pm, Thurs 10am-7:30pm",
+    "phone_value": "(614) 717-9008",
+    "ig_value": "https://www.instagram.com/whatsthepoint.needlepoint/"
+  },
+  {
+    "shop_name": "Louise's Needlework",
+    "city": "Powell",
+    "state": "OH",
+    "url": "www.louisesneedlework.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "In Stitches (Portland)",
+    "city": "Portland",
+    "state": "OR",
+    "url": "www.institchespdx.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Playful Needle",
+    "city": "Portland",
+    "state": "OR",
+    "url": "www.the-playful-needle.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Fireside Stitchery",
+    "city": "Malvern",
+    "state": "PA",
+    "url": "www.firesidestitchery.com",
+    "hours_value": "ches, refreshments, Friday welcome dinner, exclusive shopping and discounts, and access to amazing on-site classes! Breakout Class opportunities include Decorative Stitch Class with Cynthia Thomas, Monogramming Class with Anne Fisher & Finishing Class with Fireside. Sign up below! Sign up Ready to ship in stock needlepoint canvases shop Hosting monthly trunk shows Trunk shows 20% off this month's featured designers Shop Mountain Laurel - PA State Flower Spellbound Stitchery Exclusive Fireside Stitching Anne Fisher exclusive Stand tray attachment Exclusive - Made in-House Love Letter from Philly Blue Canary Exclusive Sports 3\" Round SA Exclusive Fly Bird SA Exclusive Wooden Laying Tool Case Exclusive - Made in-House Birdhouse - Wooden Needle Case Exclusive - Made in-House Fireside Flame Logo Fireside Exclusive Home to various complete thread lines Kit your masterpiece Over 100 complete thread lines in store and online to keep threads at your fingertips, where they belong shop Did you know that Fireside offers an ebay storefront? $0.99 starting bids ebay LONG-TIME, REPEAT BUYER. PROFESSIONAL, 5-STAR SELLER. HIGHLY RECOMMEND -ebay customer Top-rated reseller offering threads, canvases & more Sell with Fireside Custom Orders Can't find what you're looking for? We can order painted canvases from designers we do not have listed on our site, out of stock threads, or just about anything else you can think of. If you'd like to place a custom order, visit our contact page and fill out the custom order form. Leather soft clutch with zipper and internal pocket Box lumbar pillow Tree topper Alice Peterson Canvas, Fireside Stitchery Stitch Guide Liz Goodrick-Dillon Canvas, Fireside Stitchery Stitch Guide Previous Next About our store Fireside Stitchery is a full service needlepoint shop. We provide a wide range of canvases, notions, and fibers for your needlework. Location 179 Lancaster Avenue, Suite 3 Malvern, PA 19355 610-889-9835 Just a 5 minute Uber from Malvern Septa station! Hours Tuesday - Friday 10am-4pm Saturday 10am-3pm Sunday & Monday Closed Main menu Thre",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Gazebo Plus",
+    "city": "New Hope",
+    "state": "PA",
+    "url": "www.gazeboplus.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Rittenhouse Needlepoint",
+    "city": "Philadelphia",
+    "state": "PA",
+    "url": "www.rittenhouseneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needle Point Breeze",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "url": "www.needlepointbreeze.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Beehive Needlearts",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "url": "www.beehiveneedlearts.com",
+    "hours_value": "Enter your email Subscribe icon-email Subscribe",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Porcupine Needlepoint Shop",
+    "city": "Sewickley",
+    "state": "PA",
+    "url": "www.theporcupineneedlepointshop.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch Haus",
+    "city": "Wayne",
+    "state": "PA",
+    "url": "www.stitchhaus.com",
+    "hours_value": "Mon-Thurs 10am-5pm, Fri-Sat 10am-4pm",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Picket Fence (Barrington)",
+    "city": "Barrington",
+    "state": "RI",
+    "url": "picketfenceneedlepoint.com",
+    "hours_value": null,
+    "phone_value": "(401) 245-0484 ",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint by the Bay",
+    "city": "East Greenwich",
+    "state": "RI",
+    "url": "needlepointbythebay.com",
+    "hours_value": "Visit our shop Address 5853 Post Rd Suite 102A, \nEast Greenwich, RI 02818 Get directions Open hours Wednesday - 10:00 AM — 4:00 PM Thursday - 10:00 AM - 8:00 PM Friday  and Saturday 10:00 AM — 4:00 PM Sunday 11:00 AM - 3:00 PM Mon - Tuesday Closed Contact info +1-401-471-7614 wendy@needlepointbythebay.com",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Lycette Designs (Newport)",
+    "city": "Newport",
+    "state": "RI",
+    "url": "www.lycettedesigns.com",
+    "hours_value": "Name Email Message",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Cabbage Row Shoppe",
+    "city": "Charleston",
+    "state": "SC",
+    "url": "www.cabbagerow.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needle Tree",
+    "city": "Greenville",
+    "state": "SC",
+    "url": "www.theneedletree.com",
+    "hours_value": "Your source for the finest yarns, hand painted canvases and accessories.",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint Junction (Hilton Head)",
+    "city": "Hilton Head Island",
+    "state": "SC",
+    "url": "shopneedlepointjunction.com",
+    "hours_value": "Logout Let’s Chat! Monday - Friday: 9:30 - 4:00 Saturday: 9:30 - 2:00 Sunday: Closed 1000 William Hilton Parkway Ste J7E Hilton Head Island, SC",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "It's a Stitch (Johns Island)",
+    "city": "Johns Island",
+    "state": "SC",
+    "url": "www.itsastitch.net",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitching Fox",
+    "city": "Landrum",
+    "state": "SC",
+    "url": "www.stitchingfox.com",
+    "hours_value": "Email address Sign up",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "A. Bradley Needlearts",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "url": "www.abradleyneedlearts.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Pawleys Island Needlepoint",
+    "city": "Pawleys Island",
+    "state": "SC",
+    "url": "www.pineedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Two's Company Needlepoint",
+    "city": "Rock Hill",
+    "state": "SC",
+    "url": "www.twoscompanyneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Barbara's Needlepoint",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "url": "www.barbarasneedlepoint.com",
+    "hours_value": "Mon - Fri 10am - 4pm, Saturdays 10am - 3pm",
+    "phone_value": "605-367-9050",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Nashville Needleworks",
+    "city": "Brentwood",
+    "state": "TN",
+    "url": "www.nashvilleneedleworks.com",
+    "hours_value": "ers over $200! Shop Hours: Mon thru Sat 10 a.m. to 4 p.m. Open Online 7x24. Item added to your cart View cart Check out Continue shopping Browse the most recent additi",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Amy's Golden Strand",
+    "city": "Memphis",
+    "state": "TN",
+    "url": "www.amybunger.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitchers, Inc.",
+    "city": "Memphis",
+    "state": "TN",
+    "url": "www.stitchersinc.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needleworks of Austin (The Needle Works)",
+    "city": "Austin",
+    "state": "TX",
+    "url": "theneedleworks.com",
+    "hours_value": "W, F: 10 am – 4 pm, Thurs: 10am – 7pm, Sat. 10 am – 3 pm A year-long creative lab exploring",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Fancy Stitches",
+    "city": "Cleburne",
+    "state": "TX",
+    "url": "www.fancystitches.com",
+    "hours_value": "76033 Store Hours: Wednesday , Thursday, Friday & Saturday 11:00 to 4:00 Closed Sunday, Monday , & Tuesday Here's What You Will Find Here's",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Creative Stitches & Gifts",
+    "city": "Dallas",
+    "state": "TX",
+    "url": "www.creativestitchesandgifts.com",
+    "hours_value": "sandgifts.com Hours Tuesday - Friday 10 am to 4 pm, Saturday 10 am to 2 pm , Closed Sunday and Monday",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needlepoint This!",
+    "city": "Dallas",
+    "state": "TX",
+    "url": "www.needlepointthis.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Wipstitch Needleworks",
+    "city": "Dallas",
+    "state": "TX",
+    "url": "wipstitch.com",
+    "hours_value": "Wed-Sat 12-4pm",
+    "phone_value": "(214) 909-8538",
+    "ig_value": "https://www.instagram.com/wipstitchneedleworks/?hl=en"
+  },
+  {
+    "shop_name": "The French Knott",
+    "city": "Fort Worth",
+    "state": "TX",
+    "url": "www.thefrenchknot.com",
+    "hours_value": "Mon-Sat 10am-5pm",
+    "phone_value": "817-731-3446",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Judy's Stitchery Nook",
+    "city": "Harlingen",
+    "state": "TX",
+    "url": "www.judystitcherynook.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Blue Bonnet Studio",
+    "city": "Houston",
+    "state": "TX",
+    "url": "www.bluebonnetstudio.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Chandail Needlework",
+    "city": "Houston",
+    "state": "TX",
+    "url": "www.chandailneedlework.com",
+    "hours_value": "Friday: 10am - 5pm Thursday & Saturday: 10am - 4pm Tuesday & Sunday: Closed Happy Stitching! Newsletter",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Chaparral Needlework",
+    "city": "Houston",
+    "state": "TX",
+    "url": "www.ndlpt.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Nimblefingers",
+    "city": "Houston",
+    "state": "TX",
+    "url": "www.nimblefingerstx.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitches in Time (Houston)",
+    "city": "Houston",
+    "state": "TX",
+    "url": "www.stitchesintimeneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needle House",
+    "city": "Houston",
+    "state": "TX",
+    "url": "www.theneedlehouse.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Pocket Full of Stitches",
+    "city": "Lubbock",
+    "state": "TX",
+    "url": "www.pfos.com",
+    "hours_value": "Tues - Fri, 10am - 5pm, Saturday 10am-4pm",
+    "phone_value": "806-792-1761",
+    "ig_value": null
+  },
+  {
+    "shop_name": "Snippets Texas",
+    "city": "New Braunfels",
+    "state": "TX",
+    "url": "www.snippetstexas.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Chandler Cottage Needlepoint",
+    "city": "San Angelo",
+    "state": "TX",
+    "url": "www.chandlercottage.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Clark & Company",
+    "city": "San Antonio",
+    "state": "TX",
+    "url": "www.clarkneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch Therapy Needlepoint (Spring)",
+    "city": "Spring",
+    "state": "TX",
+    "url": "www.stitchtherapyneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Storyteller's Thread",
+    "city": "Spring",
+    "state": "TX",
+    "url": "storytellersthread.com",
+    "hours_value": "Pickup available at Storyteller’s Thread",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Past Times Needlepoint",
+    "city": "Victoria",
+    "state": "TX",
+    "url": "www.pasttimesneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "In Stitches Needlework (Alexandria)",
+    "city": "Alexandria",
+    "state": "VA",
+    "url": "www.institchesneedlework.com",
+    "hours_value": "es100@aol.com Hours Monday through Saturday 10am - 3pm NOTE: We no longer carry knitting supplies Connect wi",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Waste Knot Needlepoint",
+    "city": "Arlington",
+    "state": "VA",
+    "url": "www.wasteknotneedlepoint.com",
+    "hours_value": "Mon-Sat 10am-4pm",
+    "phone_value": "(703) 807-1828",
+    "ig_value": "https://www.instagram.com/waste_knot_needlepoint/"
+  },
+  {
+    "shop_name": "Caroline's Thread & Canvas",
+    "city": "Ashland",
+    "state": "VA",
+    "url": "www.carolinesthreadandcanvas.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Magpie Knits (Threads)",
+    "city": "Charlottesville",
+    "state": "VA",
+    "url": "www.magpieknits.com",
+    "hours_value": "434-296-4625 [email protected]",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "poppypointe",
+    "city": "Charlottesville",
+    "state": "VA",
+    "url": "poppypointe.com",
+    "hours_value": "Wed 11am-7pm, Thurs-Fri 11am-4pm, Sat 10am-2pm",
+    "phone_value": "434-422-8174",
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needle Lady",
+    "city": "Charlottesville",
+    "state": "VA",
+    "url": "www.needlelady.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Needles in the Haymarket",
+    "city": "Haymarket",
+    "state": "VA",
+    "url": "www.needlesinthehaymarket.com",
+    "hours_value": "inesville, VA 20155 Monday - Saturday 10:00 a.m. - 5:00 p.m. Closed Sundays Directions Quick links Search Return Policy Shippin",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Stitch Middleburg",
+    "city": "Middleburg",
+    "state": "VA",
+    "url": "www.stitchmiddleburg.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Jermie's Needlepoint & Linens",
+    "city": "Richmond",
+    "state": "VA",
+    "url": "www.jermiestoo.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Stitching Studio",
+    "city": "Richmond",
+    "state": "VA",
+    "url": "www.thestitchingstudiova.com",
+    "hours_value": "Tues-Fri 10am-5pm, Sat 10am-4pm",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "West End Needlepoint",
+    "city": "Richmond",
+    "state": "VA",
+    "url": "www.westendneedlepoint.com",
+    "hours_value": "Tues, Thurs, Fri 10am-4pm, Weds 10am-7:30pm Sat 10am-3pm",
+    "phone_value": "804-562-4285",
+    "ig_value": null
+  },
+  {
+    "shop_name": "In Stitches Fine Needlepoint",
+    "city": "Dorset",
+    "state": "VT",
+    "url": "www.institchesfineneedlepoint.com",
+    "hours_value": "oute 30, Dorset, Vermont Mailing Address:\nPO Box 452 Dorset, Vermont 05251 (802) 867-7031 Email: institchesvt@gmail.com Shop Hours Today Closed Drop us a line! Drop us a line! Name Email* This site is pr",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Rain City Needlepoint",
+    "city": "Bellevue",
+    "state": "WA",
+    "url": "raincityneedlepoint.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Needlepointer",
+    "city": "Everett",
+    "state": "WA",
+    "url": "www.theneedlepointer.com",
+    "hours_value": "ip within about one month. Shop now Explore our abundant threads Immerse yourself in a world of endless color and texture. From silky cottons to rich wools, each thread is thoughtfully crafted to inspire creativity and elevate every stitch. Add Threads Stitch-to-finish Stitch-to-Finish is our signature innovation that combines stitching and finishing in one seamless experience. Each kit includes coordinated materials, guided instructions, and our patent-pending self-finishing system, allowing you to create a beautifully finished piece from the first stitch to the final detail—no professional finishing required. Shop now ACCESSORIES Essential tools for effortless needlepoint — laying tools, stretcher bars, needles, nails, and scissors designed for precision, ease, and finesse. Shop now Customer Support Customer Support Contact Us Reward Program Shipping & Order Policy Programs & Service Programs & Service Monthly Trunk Show Finishing Service Subscription Box Our Newsletter - Get Updates, Offers and Invites. Email Showroom: 1944 Terracina Dr., Sacramento, CA 95834 Hours: 10am - 4pm Mon-Fri Stay Connected © 2026 The Needlepointer Priva",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Threadneedle Street",
+    "city": "Issaquah",
+    "state": "WA",
+    "url": "www.threadneedlestreet.com",
+    "hours_value": null,
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "The Blue Peony",
+    "city": "Langley",
+    "state": "WA",
+    "url": "thebluepeony.com",
+    "hours_value": "Hours Mon: 11-4ish Tue / Wed: Out Creating Thurs /Fri / Sat: 11-4ish Sun: Closed Delivery icon Free shipping When you spend $60+ Envelope ic",
+    "phone_value": null,
+    "ig_value": null
+  },
+  {
+    "shop_name": "Heirloom Designs Studio",
+    "city": "Seattle",
+    "state": "WA",
+    "url": "heirloomdesigns.studio",
+    "hours_value": "e WA 98122. Regular hours are W-Sat 11-5. Phone: 206-313-9838 **NOTE: We will open one hour late on Saturday 2/7 for a special event.** Item added to your cart View m",
+    "phone_value": null,
+    "ig_value": null
+  }
+]
