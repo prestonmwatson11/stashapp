@@ -6,7 +6,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Simply Needlepoint",
@@ -15,16 +16,18 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "JEBBA Needlepoint Designs",
     "city": "Corona del Mar",
     "state": "CA",
     "url": null,
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "hours_value": "Tues-Fri | 10am-3pm, Sat | 9am-3pm",
+    "phone_value": "(949) 644-7904",
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Newport Needlepoint",
@@ -33,16 +36,18 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Janna's Needle Art",
     "city": "Fresno",
     "state": "CA",
-    "url": null,
-    "hours_value": null,
+    "url": "https://www.jannasneedleart.com/",
+    "hours_value": "Mon-Thurs | 9am - 4pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint of La Jolla",
@@ -51,7 +56,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitched Up Needleworks",
@@ -60,7 +66,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Willy's Needleworks",
@@ -69,7 +76,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Artful Needle",
@@ -78,7 +86,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Golden Gate Needlepoint",
@@ -87,7 +96,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "A Stitch in Time (San Marino)",
@@ -96,7 +106,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Queen Anne Stitches",
@@ -105,7 +116,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Exclamation Point!",
@@ -114,7 +126,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "A Stitch in Time (Bethel)",
@@ -123,7 +136,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "The Needlepoint Shop of Guilford",
@@ -132,7 +146,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "In Stitches LLC",
@@ -141,7 +156,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needlepoint Nook of Mystic",
@@ -150,7 +166,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Golden Needle",
@@ -159,7 +176,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Two Morrows",
@@ -168,7 +186,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Whimsical Needle",
@@ -177,7 +196,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Eye of the Needle Guild",
@@ -186,7 +206,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Seaside Needlepoint",
@@ -195,7 +216,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Cottage Finishers",
@@ -204,7 +226,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Stitchery of St. Simons",
@@ -213,7 +236,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Fiddlesticks Too, Inc.",
@@ -222,7 +246,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Fiberworks Needlework Shop",
@@ -231,7 +256,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Isabel's Needlepoint",
@@ -240,7 +266,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Sun Valley Needle Arts",
@@ -249,7 +276,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needle's Excellency",
@@ -258,7 +286,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Village Needleworks Ltd.",
@@ -267,7 +296,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needle Nest (Goshen)",
@@ -276,7 +306,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needle Fiber Arts, Inc.",
@@ -285,7 +316,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Elegant Traditions Ltd.",
@@ -294,7 +326,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Needle Arts Studio",
@@ -303,7 +336,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The World of Stitches",
@@ -312,16 +346,18 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Erica Wilson Needleworks",
     "city": "Nantucket",
     "state": "MA",
-    "url": null,
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "url": "https://ericawilson.com/",
+    "hours_value": "Mon-Sun | 9am-6pm",
+    "phone_value": "(508) 228-9881",
+    "ig_value": "https://www.instagram.com/ericawilsonnantucket/",
+    "deleted": false
   },
   {
     "shop_name": "Knit and Stitch = Bliss",
@@ -330,16 +366,18 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Bedecked and Beadazzled",
     "city": "Lutherville",
     "state": "MD",
-    "url": null,
+    "url": "https://bedeckedandbeadazzled.com/",
     "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "phone_value": "(410) 296-0405",
+    "ig_value": "https://www.instagram.com/bedeckedbeadazzled/",
+    "deleted": false
   },
   {
     "shop_name": "From Start to Finish",
@@ -348,7 +386,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Needlepoint For You",
@@ -357,7 +396,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Stitch Niche",
@@ -366,7 +406,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Front Street Company",
@@ -375,7 +416,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitch Point",
@@ -384,7 +426,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Moore Than Needlepoint",
@@ -393,7 +436,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Adornment Needlepoint Boutique",
@@ -402,7 +446,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Needlepoint Epiphany",
@@ -411,7 +456,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Contoocook Needlework Gallery",
@@ -420,7 +466,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Hunters",
@@ -429,7 +476,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Mrs. Stitches",
@@ -438,7 +486,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Twisted Stitches Needlepoint",
@@ -447,16 +496,18 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Golden Thread Needlearts",
     "city": "East Rochester",
     "state": "NY",
-    "url": null,
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "url": "https://goldenthreadneedlearts.com/",
+    "hours_value": "Mon-Sat | 10am-5pm, Thurs | 10am-9pm",
+    "phone_value": "(585) 248-3869",
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Cincinnati Needlepoint",
@@ -465,7 +516,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Stitches of Tulsa",
@@ -474,7 +526,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint Plus",
@@ -483,7 +536,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Buzy Lizzy",
@@ -492,7 +546,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Stitches Unlimited",
@@ -501,7 +556,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Barbara Sue Brody Needlework",
@@ -510,7 +566,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Joy of Needlepoint",
@@ -519,7 +576,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needle Nest (Columbia)",
@@ -528,7 +586,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitches (Knoxville)",
@@ -537,16 +596,18 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint & Other Things",
     "city": "Salt Lake City",
     "state": "UT",
-    "url": null,
+    "url": "https://www.facebook.com/people/Needlepoint-Other-Things/100054584253602/",
     "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "phone_value": "(801) 485-2512",
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needlewoman East",
@@ -555,7 +616,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Village Needlepoint of Irvington",
@@ -564,7 +626,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Village Stitchery",
@@ -573,7 +636,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Point on Piccadilly",
@@ -582,7 +646,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Battenkill Stitchery",
@@ -591,7 +656,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Charleston Needlepoint",
@@ -600,7 +666,8 @@
     "url": null,
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Creative Needle Arts",
@@ -609,16 +676,18 @@
     "url": "creativeneedlearts.com",
     "hours_value": "Tues, Weds, Fri, Sat 10am-4pm, Thurs 1pm-7pm",
     "phone_value": "(251) 223-6146",
-    "ig_value": "https://www.instagram.com/creativeneedlearts/?hl=en"
+    "ig_value": "https://www.instagram.com/creativeneedlearts/?hl=en",
+    "deleted": false
   },
   {
     "shop_name": "Grits Needlepoint",
     "city": "Homewood",
     "state": "AL",
-    "url": "www.gritsneedlepoint.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "url": "https://gritsneedlepoint.com/",
+    "hours_value": "Mon & Thurs | 10am-1pm",
+    "phone_value": "205-870-5191",
+    "ig_value": "https://www.instagram.com/needleworksbirmingham/",
+    "deleted": false
   },
   {
     "shop_name": "Needleworks of Alabama / Grits Needlepoint",
@@ -627,7 +696,8 @@
     "url": "www.gritsneedlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needle Bug",
@@ -636,7 +706,8 @@
     "url": "www.theneedlebug.com",
     "hours_value": "Tues-Fri 10am-4pm",
     "phone_value": "(334) 270-0064",
-    "ig_value": "https://www.instagram.com/theneedlebug/"
+    "ig_value": "https://www.instagram.com/theneedlebug/",
+    "deleted": false
   },
   {
     "shop_name": "Magic City Needlepoint",
@@ -645,7 +716,8 @@
     "url": "www.magiccityneedlepoint.com",
     "hours_value": "Tues, Thurs, Fri 10am-4pm, Wed 10am-6pm, Sat 10am-3pm",
     "phone_value": "(205) 721-7277",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Yarn Mart",
@@ -654,7 +726,8 @@
     "url": "www.yarnmart.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Family Arts Needlework Shop",
@@ -663,7 +736,8 @@
     "url": "www.familyartsaz.com",
     "hours_value": "Tues-Sat  9:30am-4pm",
     "phone_value": "(602) 277-0694",
-    "ig_value": "https://www.instagram.com/familyartsneedleworkshop"
+    "ig_value": "https://www.instagram.com/familyartsneedleworkshop",
+    "deleted": false
   },
   {
     "shop_name": "Be Stitched Needlepoint",
@@ -672,7 +746,8 @@
     "url": "www.bestitchedneedlepoint.com",
     "hours_value": "Tues-Sat | 10am-4pm",
     "phone_value": "(480) 991-0706",
-    "ig_value": "https://www.instagram.com/bestitched_needlepoint/"
+    "ig_value": "https://www.instagram.com/bestitched_needlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "Old Town Needlework",
@@ -681,7 +756,8 @@
     "url": "www.oldtownneedlework.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Quail Run Needlework",
@@ -690,7 +766,8 @@
     "url": "www.quailrunneedlework.com",
     "hours_value": "Mon-Fri 10am-4pm, Sat 10am-2pm",
     "phone_value": "480-551-1423",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Busy Needle",
@@ -699,7 +776,8 @@
     "url": "www.busyneedle.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The West, Inc.",
@@ -708,7 +786,8 @@
     "url": "www.thewestinc.com",
     "hours_value": "Mon-Sat 10am-4pm",
     "phone_value": "(520) 299-1044",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needle in a Haystack (Alameda)",
@@ -717,16 +796,18 @@
     "url": "www.needlestack.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Auburn Needleworks",
     "city": "Auburn",
     "state": "CA",
-    "url": "www.auburnneedleworks.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "url": "https://www.auburnneedleworks.com/",
+    "hours_value": "Tues-Sat | 10am-5pm",
+    "phone_value": "(530) 888-0202 ",
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Flying Fuzzies",
@@ -735,7 +816,8 @@
     "url": "www.flyingfuzzies.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Garden Gate Needlepoint",
@@ -744,7 +826,8 @@
     "url": "www.gardengateneedlepoint.com",
     "hours_value": "Tue-Fri | 10am-4pm, Sat | 10am-2pm",
     "phone_value": "(626) 966-4141",
-    "ig_value": "https://www.instagram.com/gardengateneedlepoint/"
+    "ig_value": "https://www.instagram.com/gardengateneedlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "Needlepoints, Ltd.",
@@ -753,7 +836,8 @@
     "url": "www.needlepointsltd.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needle Nook of La Jolla",
@@ -762,7 +846,8 @@
     "url": "www.needlenookoflajolla.com",
     "hours_value": "Mon–Fri | 10am–4pm",
     "phone_value": "858-459-1711",
-    "ig_value": "https://www.instagram.com/needlenookoflajolla/"
+    "ig_value": "https://www.instagram.com/needlenookoflajolla/",
+    "deleted": false
   },
   {
     "shop_name": "Needlepoints West",
@@ -771,7 +856,8 @@
     "url": "www.needlepointswest.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Old World Designs",
@@ -780,7 +866,8 @@
     "url": "www.oldworlddesigns.com",
     "hours_value": "Mon-Sat 10am -4pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needle in a Haystack (Montrose)",
@@ -789,7 +876,8 @@
     "url": "www.needleinahaystackmontrose.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "2 The Point",
@@ -798,7 +886,8 @@
     "url": "www.2needlepoint.com",
     "hours_value": null,
     "phone_value": "(925) 461-8664",
-    "ig_value": "https://instagram.com/terry.castillo"
+    "ig_value": "https://instagram.com/terry.castillo",
+    "deleted": false
   },
   {
     "shop_name": "The Needlepointer (Sacramento)",
@@ -807,7 +896,8 @@
     "url": "www.theneedlepointer.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint, Inc.",
@@ -816,7 +906,8 @@
     "url": "www.needlepointinc.com",
     "hours_value": "Mon-Fri | 10am-4pm",
     "phone_value": "800-345-1622",
-    "ig_value": "https://www.instagram.com/needlepoint_inc/"
+    "ig_value": "https://www.instagram.com/needlepoint_inc/",
+    "deleted": false
   },
   {
     "shop_name": "Luv 2 Stitch",
@@ -825,7 +916,8 @@
     "url": "luv2stitch.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Come to the Point",
@@ -834,7 +926,8 @@
     "url": "www.cometothepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Aristeia Needlepoint",
@@ -843,7 +936,8 @@
     "url": "www.aristeianeedlepoint.com",
     "hours_value": "Mon-Fri 10am-4pm, Sat 10am-5pm",
     "phone_value": "(310)-260-6330",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "NeedleHearts",
@@ -852,7 +946,8 @@
     "url": "www.needlehearts.com",
     "hours_value": "Mon, Tues, & Sat | 10am-2pm, Wed | 10am-3:30pm, Fri | 10am-1pm",
     "phone_value": "(818) 344-6277",
-    "ig_value": "https://www.instagram.com/needlehearts"
+    "ig_value": "https://www.instagram.com/needlehearts",
+    "deleted": false
   },
   {
     "shop_name": "Eva's Needlework",
@@ -861,7 +956,8 @@
     "url": "www.evasneedlework.com",
     "hours_value": null,
     "phone_value": "805-379-0722",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Sit 'N Stitch",
@@ -870,7 +966,8 @@
     "url": "www.sitnstitch.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Concepts in Yarn & Needlepoint",
@@ -879,7 +976,8 @@
     "url": "www.conceptsinyarn.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "A Stitching Shop",
@@ -888,7 +986,8 @@
     "url": "www.stitchingshop.com",
     "hours_value": "Mon–Sat 10am-5pm",
     "phone_value": "(303) 727-8500",
-    "ig_value": "https://www.instagram.com/astitchingshop/"
+    "ig_value": "https://www.instagram.com/astitchingshop/",
+    "deleted": false
   },
   {
     "shop_name": "Downing Street Needlepoint",
@@ -897,16 +996,18 @@
     "url": "downingstreetneedlepoint.com",
     "hours_value": "Tues-Sat 10:00am-4:00pm",
     "phone_value": "720-583-6694",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Diversions Needlepoint",
     "city": "Englewood",
     "state": "CO",
-    "url": "www.diversionsneedlepoint.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "url": "http://www.diversionsneedlepoint.com/",
+    "hours_value": "Tues-Sat | 10am-4pm",
+    "phone_value": "303-761-7766",
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "House of Needlepoint",
@@ -915,7 +1016,8 @@
     "url": "www.houseofneedlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "The Village Ewe",
@@ -924,7 +1026,8 @@
     "url": "www.thevillageewe.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint, Needlepoint & More Needlepoint",
@@ -933,7 +1036,8 @@
     "url": "www.tnsct.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Thistle Needleworks",
@@ -942,7 +1046,8 @@
     "url": "www.thistleneedleworks.com",
     "hours_value": "Tues-Fri 9:30am-5:30pm, Sat 9:30am-4pm",
     "phone_value": "860-257-2718",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Enriched Stitch",
@@ -951,7 +1056,8 @@
     "url": "www.enrichedstitch.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Point of It All",
@@ -960,7 +1066,8 @@
     "url": "www.thepointofitallonline.com",
     "hours_value": "Tues-Sat 10am-4pm",
     "phone_value": "202-966-9898",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitch-Stash",
@@ -969,7 +1076,8 @@
     "url": "www.stitch-stash.com",
     "hours_value": "Tues-Sat 11am - 4pm",
     "phone_value": "(302) 569-0063",
-    "ig_value": "https://www.instagram.com/stitchstashneedlepoint/"
+    "ig_value": "https://www.instagram.com/stitchstashneedlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "The Jolly Needlewoman",
@@ -978,7 +1086,8 @@
     "url": "www.jollyneedlewoman.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needle Orts",
@@ -987,7 +1096,8 @@
     "url": "www.needleorts.com",
     "hours_value": "Wed-Sat | 10am-5pm",
     "phone_value": "(877) 869-0078",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Flying Needles",
@@ -996,7 +1106,8 @@
     "url": "www.theflyingneedles.com",
     "hours_value": "Wed-Sat 10am-4pm",
     "phone_value": null,
-    "ig_value": "https://www.theflyingneedles.com/www.instagram.com/flyingneedlesbelleair"
+    "ig_value": "https://www.theflyingneedles.com/www.instagram.com/flyingneedlesbelleair",
+    "deleted": false
   },
   {
     "shop_name": "Grande Stitches",
@@ -1005,7 +1116,8 @@
     "url": "grandestitches.com",
     "hours_value": "Mon, Thurs–Sat 10am– 2:00pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Radish Roots Needlepoint",
@@ -1014,7 +1126,8 @@
     "url": "radishrootsneedlepoint.com",
     "hours_value": "Tues-Sat | 10am-4pm",
     "phone_value": "386-264-5046",
-    "ig_value": "https://www.instagram.com/radishrootsneedlepoint/"
+    "ig_value": "https://www.instagram.com/radishrootsneedlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "Stitches by the Sea",
@@ -1023,7 +1136,8 @@
     "url": "stitchesbythesea.us",
     "hours_value": "Tues 10am–6pm, Weds-Sat 10am – 4pm",
     "phone_value": "561-865-5775",
-    "ig_value": "@StitchesbytheSea"
+    "ig_value": "@StitchesbytheSea",
+    "deleted": false
   },
   {
     "shop_name": "Bristly Thistle",
@@ -1032,7 +1146,8 @@
     "url": "www.bristlythistle.com",
     "hours_value": "Tues | 2pm-5pm, Wed & Thurs | 11am-5pm, Fri| 10am-4pm, Sat | 9:30am-1pm",
     "phone_value": "(904) 729-4020",
-    "ig_value": "http://instagram.com/BristlyThistle"
+    "ig_value": "http://instagram.com/BristlyThistle",
+    "deleted": false
   },
   {
     "shop_name": "A Stitch in Time (Jacksonville)",
@@ -1041,7 +1156,8 @@
     "url": "www.astitchintime.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Needlepoint Alley",
@@ -1050,7 +1166,8 @@
     "url": "www.needlepointalley.com",
     "hours_value": "Tues-Sat | 10am-3pm",
     "phone_value": "561-691-3223",
-    "ig_value": "https://www.instagram.com/needlepoint_alley/"
+    "ig_value": "https://www.instagram.com/needlepoint_alley/",
+    "deleted": false
   },
   {
     "shop_name": "Absolutely Needlepoint (Miami)",
@@ -1059,7 +1176,8 @@
     "url": "www.absolutelyneedlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint in Paradise",
@@ -1068,7 +1186,8 @@
     "url": "www.needlepointinparadise.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "The Black Sheep",
@@ -1077,7 +1196,8 @@
     "url": "www.theblacksheepshop.com",
     "hours_value": "Mon-Fri 10am-4pm, Sat 10am-2pm",
     "phone_value": "407-894-0444",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint Studio of Sarasota",
@@ -1086,7 +1206,8 @@
     "url": "www.needlepointstudio.com",
     "hours_value": "Tues-Sat | 10am-4pm",
     "phone_value": "941-924-3696",
-    "ig_value": "https://www.instagram.com/needlepointstudiosarasota/?_ga=2.133703182.1204246957.1607006592-156366883.1603399786"
+    "ig_value": "https://www.instagram.com/needlepointstudiosarasota/?_ga=2.133703182.1204246957.1607006592-156366883.1603399786",
+    "deleted": false
   },
   {
     "shop_name": "Morgan Julia Designs (St. Pete Studio)",
@@ -1095,7 +1216,8 @@
     "url": "morganjuliadesigns.com",
     "hours_value": "Appointment Only",
     "phone_value": null,
-    "ig_value": "https://www.instagram.com/morganjuliadesigns/"
+    "ig_value": "https://www.instagram.com/morganjuliadesigns/",
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint Land",
@@ -1104,7 +1226,8 @@
     "url": "www.needlepointland.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Knot the Point",
@@ -1113,7 +1236,8 @@
     "url": "www.knotthepoint.com",
     "hours_value": "Tues, Wed, Fri, Sat | 10am-4pm, Thurs | 10am-7pm, Sun | 12pm-4pm",
     "phone_value": "(813) 467-8935",
-    "ig_value": "https://www.instagram.com/knotthepoint"
+    "ig_value": "https://www.instagram.com/knotthepoint",
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint Ivy",
@@ -1122,7 +1246,8 @@
     "url": "www.needlepointivy.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needle Nicely",
@@ -1131,7 +1256,8 @@
     "url": "www.needlenicely.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Novella Needlepoint",
@@ -1140,7 +1266,8 @@
     "url": "novellaneedlepoint.com",
     "hours_value": "Tues-Sat | 10am-5pm",
     "phone_value": "407-840-3858",
-    "ig_value": "http://www.instagram.com/novellaneedlepoint"
+    "ig_value": "http://www.instagram.com/novellaneedlepoint",
+    "deleted": false
   },
   {
     "shop_name": "Atlanta Needlepoint & Monogramming",
@@ -1149,7 +1276,8 @@
     "url": "www.atlantaneedlepointandmonogramming.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "In Stitches (Atlanta)",
@@ -1158,7 +1286,8 @@
     "url": "www.institchesatlanta.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Labors of Love Needlepoint",
@@ -1167,7 +1296,8 @@
     "url": "laborsofloveneedlepoint.shop",
     "hours_value": "Mon-Sat | 10am-4pm",
     "phone_value": "(470) 343-2105",
-    "ig_value": "https://www.instagram.com/laborsoflove_ndlpt_shop/"
+    "ig_value": "https://www.instagram.com/laborsoflove_ndlpt_shop/",
+    "deleted": false
   },
   {
     "shop_name": "Cast-On Cottage",
@@ -1176,7 +1306,8 @@
     "url": "www.castoncottage.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "The Nimble Needle (Sandy Springs)",
@@ -1185,7 +1316,8 @@
     "url": "www.atlantanimbleneedle.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Savannah Needlepoint",
@@ -1194,7 +1326,8 @@
     "url": "www.savannahneedlepoint.com",
     "hours_value": "Tues, Fri | 10am-5pm, Wed, Thurs | 10am-6pm, Sat | 10am-4pm",
     "phone_value": "912-663-3888",
-    "ig_value": "https://www.instagram.com/savannahneedlepoint/?hl=en"
+    "ig_value": "https://www.instagram.com/savannahneedlepoint/?hl=en",
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint, Etc.",
@@ -1203,7 +1336,8 @@
     "url": "www.needlepointhi.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint Beach",
@@ -1212,7 +1346,8 @@
     "url": "www.needlepointbeach.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Maydel",
@@ -1221,7 +1356,8 @@
     "url": "maydel.com",
     "hours_value": "Thurs-Sat 11am–4pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Third Coast Stitches",
@@ -1230,7 +1366,8 @@
     "url": "thirdcoaststitches.com",
     "hours_value": "Tues, Weds, Fri 12pm-5pm, Thurs 2pm-8pm, Sat 11am-5pm, Sun 11am-4pm",
     "phone_value": "312-285-2221",
-    "ig_value": "https://www.instagram.com/thirdcoaststitches/"
+    "ig_value": "https://www.instagram.com/thirdcoaststitches/",
+    "deleted": false
   },
   {
     "shop_name": "Designers Desk",
@@ -1239,7 +1376,8 @@
     "url": "www.designersdeskusa.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "The Forest Needle",
@@ -1248,7 +1386,8 @@
     "url": "www.forestneedle.com",
     "hours_value": "Tues-Fri 11am-5pm, Sat 11am-3pm",
     "phone_value": "847-235-2407",
-    "ig_value": "https://www.instagram.com/theforestneedle/"
+    "ig_value": "https://www.instagram.com/theforestneedle/",
+    "deleted": false
   },
   {
     "shop_name": "Stitchers Garden",
@@ -1257,7 +1396,8 @@
     "url": "www.stitchersgardenil.com",
     "hours_value": "Tue, Wed, Fri, Sat | 10am-5pm, Thurs | 10am-8pm",
     "phone_value": "(630) 946-6216",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Emily's Stitchery / North Shore Needleworks",
@@ -1266,7 +1406,8 @@
     "url": "www.emilysstitchery.com",
     "hours_value": null,
     "phone_value": "847-291-6550",
-    "ig_value": "https://www.instagram.com/emilys.stitchery"
+    "ig_value": "https://www.instagram.com/emilys.stitchery",
+    "deleted": false
   },
   {
     "shop_name": "The Canvasback",
@@ -1275,7 +1416,8 @@
     "url": "www.canvasback-needlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Classic Stitch",
@@ -1284,7 +1426,8 @@
     "url": "www.theclassicstitch.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitches from the Heart",
@@ -1293,7 +1436,8 @@
     "url": "www.stitches-heart.com",
     "hours_value": "Tues-Sat | 11am-2pm",
     "phone_value": "(812) 437-1320",
-    "ig_value": "https://www.instagram.com/stitchesfromtheheart_evv/"
+    "ig_value": "https://www.instagram.com/stitchesfromtheheart_evv/",
+    "deleted": false
   },
   {
     "shop_name": "Red Rooster Stitchery",
@@ -1302,7 +1446,8 @@
     "url": "www.redroosterstitchery.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Persnickety Stitchers",
@@ -1311,7 +1456,8 @@
     "url": "www.persnicketystitchers.com",
     "hours_value": "Tues-Wed, Fri 10am-5pm, Thurs 2pm-8pm, Sat 10am-4pm",
     "phone_value": "317-873-5010",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Studio Knitting & Needlepoint",
@@ -1320,7 +1466,8 @@
     "url": "www.thestudiokc.com",
     "hours_value": "Mon-Sat 11am-3pm",
     "phone_value": "816-531-4466",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Two the Point Needlearts",
@@ -1329,7 +1476,8 @@
     "url": "www.twothepointneedlearts.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "M's Canvashouse",
@@ -1338,7 +1486,8 @@
     "url": "www.mscanvashouse.com",
     "hours_value": "Mon-Fri | 10am-5pm, Sat | 10am-2pm",
     "phone_value": "(859) 253-1302",
-    "ig_value": "https://instagram.com/mscanvashouse/"
+    "ig_value": "https://instagram.com/mscanvashouse/",
+    "deleted": false
   },
   {
     "shop_name": "Stitch Therapy Needleworks",
@@ -1347,7 +1496,8 @@
     "url": "www.stitchtherapyneedlepoint.com",
     "hours_value": null,
     "phone_value": "(859) 303-5478",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitching Therapy Needlepoint",
@@ -1356,16 +1506,18 @@
     "url": "www.stitchtherapyneedlepoint.com",
     "hours_value": "Call for Hours",
     "phone_value": "(859) 303-5478",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Beth's Needlepoint Nook / Stitchen Time",
     "city": "Louisville",
     "state": "KY",
-    "url": "www.bethsneedlepoint.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "url": "https://stitchentime.com/",
+    "hours_value": "Tue - Fri, 10:00am - 4:00pm Sat 10:00am - 4:00pm",
+    "phone_value": "502-244-0046",
+    "ig_value": "https://www.instagram.com/stitchen_time/",
+    "deleted": false
   },
   {
     "shop_name": "Stitch - A Needlepoint Shop",
@@ -1374,7 +1526,8 @@
     "url": "www.stitchneedlepointshop.com",
     "hours_value": "Tues-Sat | 10am-2pm",
     "phone_value": "(502) 384-3424",
-    "ig_value": "https://www.instagram.com/stitchneedlepointshop"
+    "ig_value": "https://www.instagram.com/stitchneedlepointshop",
+    "deleted": false
   },
   {
     "shop_name": "Stitch – A Needlepoint Shop",
@@ -1383,7 +1536,8 @@
     "url": "www.stitchneedlepointshop.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needle Nest (Shelbyville)",
@@ -1392,7 +1546,8 @@
     "url": "www.needlenestky.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Elegant Needle",
@@ -1401,7 +1556,8 @@
     "url": "www.theelegantneedle.com",
     "hours_value": "Wed 10-6  |  Thu-Fri 10-4  |  Sat 11-3 Notice: in instances of inclement weather, when state offices are closed we will be as well. (225) 925-8920 phone (225) 925-8921 fax",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitch and Frame of Acadiana",
@@ -1410,7 +1566,8 @@
     "url": "stitchandframeacadiana.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Quarter Stitch",
@@ -1419,7 +1576,8 @@
     "url": "www.quarterstitch.com",
     "hours_value": "Mon-Sun 10am-6pm",
     "phone_value": "504-522-4451",
-    "ig_value": "https://www.instagram.com/quarter_stitch/"
+    "ig_value": "https://www.instagram.com/quarter_stitch/",
+    "deleted": false
   },
   {
     "shop_name": "Hanging by a Thread",
@@ -1428,7 +1586,8 @@
     "url": "www.hangingbyathreadshreveport.com",
     "hours_value": "Mon-Fri | 10am-5pm  Sat | 10am-2pm",
     "phone_value": "(318) 865-7878",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitch Boutique of Boston",
@@ -1437,7 +1596,8 @@
     "url": "www.stitchboutiqueofboston.com",
     "hours_value": "Mon-Tues 11am-4pm, Wed 11am-7:30pm, Thurs-Sat 11am-4pm",
     "phone_value": "617-236-4633",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Hingham Square Needlepoint",
@@ -1446,7 +1606,8 @@
     "url": "www.hinghamsquareneedlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Osterville Needlepoint Shop",
@@ -1455,7 +1616,8 @@
     "url": "www.ostervilleneedlepointshop.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "B.F. Goodstitch",
@@ -1464,7 +1626,8 @@
     "url": "www.bfgoodstitch.net",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Wellesley Needlepoint Collection",
@@ -1473,7 +1636,8 @@
     "url": "www.wellesleyneedlepoint.com",
     "hours_value": "Tues-Sat 10am-3pm",
     "phone_value": "781-721-1929",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "B's Stitches Fine Needlecrafts",
@@ -1482,7 +1646,8 @@
     "url": "www.b-stitches.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Hillside Needlepoint",
@@ -1491,7 +1656,8 @@
     "url": "www.hillsideneedlepoint.com",
     "hours_value": "Wed-Fri | 10am-5pm, Sat 10am-3pm",
     "phone_value": "443-548-3691",
-    "ig_value": "http://instagram.com/hillsideneedlearts"
+    "ig_value": "http://instagram.com/hillsideneedlearts",
+    "deleted": false
   },
   {
     "shop_name": "Stitchery Square",
@@ -1500,7 +1666,8 @@
     "url": "www.stitcherysquare.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Grace Robinson and Company",
@@ -1509,7 +1676,8 @@
     "url": "www.yarnandneedlepoint.com",
     "hours_value": "Tues-Sat 10am-3:30pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Peacock Alley Needlepoint",
@@ -1518,7 +1686,8 @@
     "url": "www.peacockalleyneedlepoint.com",
     "hours_value": "Mon-Fri  10am-4:30pm, Sat 12pm-3pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needleworks (Birmingham)",
@@ -1527,7 +1696,8 @@
     "url": "www.eneedleworks.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Homestead Needle Arts",
@@ -1536,7 +1706,8 @@
     "url": "www.homesteadneedlearts.com",
     "hours_value": "Wed, Fri, Sat 10-4",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Wool & The Floss",
@@ -1545,7 +1716,8 @@
     "url": "www.thewoolandthefloss.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Knotted Needle",
@@ -1554,7 +1726,8 @@
     "url": "www.knottedneedle.com",
     "hours_value": "Tues-Sat 11:30am-4 pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Crafty Lady Trio",
@@ -1563,7 +1736,8 @@
     "url": "www.craftyladytrio.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "The Picket Fence",
@@ -1572,7 +1746,8 @@
     "url": "www.thepicketfenceinc.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "3 Kittens Needle Arts",
@@ -1581,7 +1756,8 @@
     "url": "www.3kittensneedlearts.com",
     "hours_value": "Tues-Sat 10am - 3pm",
     "phone_value": "(651) 457-4969",
-    "ig_value": "https://www.instagram.com/3kittensneedlearts/"
+    "ig_value": "https://www.instagram.com/3kittensneedlearts/",
+    "deleted": false
   },
   {
     "shop_name": "Needlework Unlimited",
@@ -1590,7 +1766,8 @@
     "url": "www.needleworkunlimited.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitchville USA",
@@ -1599,7 +1776,8 @@
     "url": "www.stitchville.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "KC Needlepoint",
@@ -1608,7 +1786,8 @@
     "url": "www.kcneedlepoint.com",
     "hours_value": null,
     "phone_value": "816-599-7331",
-    "ig_value": "https://instagram.com/kcneedlepoint"
+    "ig_value": "https://instagram.com/kcneedlepoint",
+    "deleted": false
   },
   {
     "shop_name": "Sign of the Arrow",
@@ -1617,7 +1796,8 @@
     "url": "www.signofthearrow.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The First & Last Stitch",
@@ -1626,7 +1806,8 @@
     "url": "www.firstandlast.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needlepoint Clubhouse",
@@ -1635,7 +1816,8 @@
     "url": "www.stlneedlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The French Knot (Diamondhead)",
@@ -1644,7 +1826,8 @@
     "url": "www.frknot.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Natchez Needle Arts",
@@ -1653,7 +1836,8 @@
     "url": "www.natchezneedlearts.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Chapel Hill Needlepoint",
@@ -1662,7 +1846,8 @@
     "url": "chapelhillneedlepoint.com",
     "hours_value": "Tues-Fri | 10am-4pm, Sat | 10am-2pm",
     "phone_value": "919-929-3999",
-    "ig_value": "https://www.instagram.com/chapelhillneedlepoint/"
+    "ig_value": "https://www.instagram.com/chapelhillneedlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "Po's Point",
@@ -1671,7 +1856,8 @@
     "url": "posneedlepoint.com",
     "hours_value": "Tues-Sat 11am - 4pm",
     "phone_value": "704-553-8777",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needlecraft Center",
@@ -1680,7 +1866,8 @@
     "url": "www.needlecraftcenter.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitching Chicks Needlepoint",
@@ -1689,7 +1876,8 @@
     "url": "stitchingchicksneedlepoint.com",
     "hours_value": "Sun | 1pm-5pm, Mon, Tues, Thurs, Fri, Sat | 10am-4pm",
     "phone_value": "(828) 391-5093",
-    "ig_value": "https://www.instagram.com/thestitchingchicks/"
+    "ig_value": "https://www.instagram.com/thestitchingchicks/",
+    "deleted": false
   },
   {
     "shop_name": "Personal Threads Boutique",
@@ -1698,7 +1886,8 @@
     "url": "www.personalthreads.com",
     "hours_value": "Mon-Fri 9am-6pm, Sat 9am-3pm",
     "phone_value": "(402)391-7733",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Village Needleworks (Omaha)",
@@ -1707,7 +1896,8 @@
     "url": "www.villageneedleworks.com",
     "hours_value": "Tues-Sat 10am-3pm",
     "phone_value": "(402) 391-1191",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Bay Head Needlepoint",
@@ -1716,7 +1906,8 @@
     "url": "www.bayheadneedlepoint.com",
     "hours_value": "Sat-Sun | 10am-4pm",
     "phone_value": "732-701-7448",
-    "ig_value": "https://www.instagram.com/bayheadneedlepoint/"
+    "ig_value": "https://www.instagram.com/bayheadneedlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "Gone Stitching",
@@ -1725,7 +1916,8 @@
     "url": "www.gonestitching.net",
     "hours_value": "Appointment Only",
     "phone_value": "201-385-2100",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Beyond Knits & Needles",
@@ -1734,7 +1926,8 @@
     "url": "www.beyondknitsandneedles.net",
     "hours_value": "Wed, Fri, Sat | 11am-2:30pm",
     "phone_value": "973-226-4242",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitching Pretty",
@@ -1743,7 +1936,8 @@
     "url": "stitching-pretty.squarespace.com",
     "hours_value": "Sunday 10:00 am - 2:00 pm Monday - Tuesday 10:00 am - 4:00 pm Wednesday 12:",
     "phone_value": "(732) 996-7376",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Threads Too Needlepoint",
@@ -1752,7 +1946,8 @@
     "url": "www.threads-too.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Nimble Needle (Haddonfield)",
@@ -1761,7 +1956,8 @@
     "url": "www.nimbleneedle.net",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Morgan Julia Designs (Jersey City)",
@@ -1770,7 +1966,8 @@
     "url": "morganjuliadesigns.com",
     "hours_value": "Tues, Wed, Fri, Sat | 10am-6pm, Thurs | 12pm-8pm, Sun | 12pm-4pm",
     "phone_value": null,
-    "ig_value": "https://www.instagram.com/morganjuliadesigns/"
+    "ig_value": "https://www.instagram.com/morganjuliadesigns/",
+    "deleted": false
   },
   {
     "shop_name": "Nimble Needle (Merchantville)",
@@ -1779,7 +1976,8 @@
     "url": "www.nimbleneedlenj.com",
     "hours_value": "Tues-Fri 12pm-5pm, Sat 11am-4pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needleworker's Delight",
@@ -1788,7 +1986,8 @@
     "url": "www.needleworkersdelight.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Scrim Discovery Needlepoint",
@@ -1797,7 +1996,8 @@
     "url": "www.scrimdiscovery.com",
     "hours_value": "Mon-Sat | 10am-4pm",
     "phone_value": "609-398-6659",
-    "ig_value": "https://www.instagram.com/scrimdiscovery924/"
+    "ig_value": "https://www.instagram.com/scrimdiscovery924/",
+    "deleted": false
   },
   {
     "shop_name": "Knit One Stitch Too",
@@ -1806,7 +2006,8 @@
     "url": "www.k1st2.com",
     "hours_value": "Mon–Sat 11am-5:00pm, Sun 12pm-4pm",
     "phone_value": "(609) 737-2211",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Ridgewood Needlepoint",
@@ -1815,7 +2016,8 @@
     "url": "www.ridgewoodneedlepoint.com",
     "hours_value": "Tues-Sat | 10am-2pm",
     "phone_value": "201 612-7770",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Ladybug Stitches",
@@ -1824,7 +2026,8 @@
     "url": "www.ladybugstitches.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Expressions in Needleart",
@@ -1833,7 +2036,8 @@
     "url": "www.expressionsinneedleart.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitch by Stitch",
@@ -1842,7 +2046,8 @@
     "url": "www.stitchbystitchneedlepoint.com",
     "hours_value": "Tues-Fri 10AM-4PM",
     "phone_value": "914-834-1886",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Red Thread Atelier",
@@ -1851,7 +2056,8 @@
     "url": "www.theredthreadatelier.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needlepaint Nook",
@@ -1860,7 +2066,8 @@
     "url": "www.theneedlepaintnook.com",
     "hours_value": "Wednesday 10:30 – 5:00 Thursday 12:30 – 6:00 Friday 10:30 – 5:00 Saturday 10:30 – 2:30 Follow Follow Copyright © 2024 Needlepaint Nook | Cre",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Keep Me in Needlepoint",
@@ -1869,7 +2076,8 @@
     "url": "www.keepmeinneedlepoint.com",
     "hours_value": "Wed-Sat | 11am-4pm",
     "phone_value": "631-724-1440",
-    "ig_value": "https://www.instagram.com/keepmeinneedlepoint/"
+    "ig_value": "https://www.instagram.com/keepmeinneedlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "Annie & Company",
@@ -1878,7 +2086,8 @@
     "url": "www.annieandco.com",
     "hours_value": "Mon-Fri 10am-6pm, Sat 11am-5:pm, Sun 12pm-5pm",
     "phone_value": "212) 360-7266 or (212) 289-2944",
-    "ig_value": "https://instagram.com/annieandco.nyc"
+    "ig_value": "https://instagram.com/annieandco.nyc",
+    "deleted": false
   },
   {
     "shop_name": "Rita's Needlepoint",
@@ -1887,7 +2096,8 @@
     "url": "www.ritasneedlepoint.com",
     "hours_value": "10:30 am - 6:00 pm Thursday: 10:30 am - 6:00 pm Friday: 10:30 am - 6:00 pm Saturday: 10:30 am - 5",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "West Village Knit & Needle",
@@ -1896,7 +2106,8 @@
     "url": "www.wvknitandneedle.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Bargello Needlepoint",
@@ -1905,7 +2116,8 @@
     "url": "www.bargello-needlepoint.com",
     "hours_value": "Tues, Thurs, Fri 10–4pm, Wed 2pm-7:30pm, Sat 10–2pm",
     "phone_value": "914-361-1014",
-    "ig_value": "https://instagram.com/bargelloneedlepointny"
+    "ig_value": "https://instagram.com/bargelloneedlepointny",
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint Gallery & More",
@@ -1914,7 +2126,8 @@
     "url": "www.theneedlepointgallery.com",
     "hours_value": null,
     "phone_value": "845-434-1834",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "I of the Needle",
@@ -1923,7 +2136,8 @@
     "url": "www.ioftheneedleakron.com",
     "hours_value": "Tues-Sat 10am-4pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Absolutely Needlepoint (Cincinnati)",
@@ -1932,7 +2146,8 @@
     "url": "www.absolutelyneedlepointcincy.com",
     "hours_value": "Mon-Fri 10am-5pm, Sat 10am-3pm",
     "phone_value": "513-561-7999",
-    "ig_value": "https://www.instagram.com/4583895108/"
+    "ig_value": "https://www.instagram.com/4583895108/",
+    "deleted": false
   },
   {
     "shop_name": "The Top Drawer",
@@ -1941,7 +2156,8 @@
     "url": "www.topdrawer-needlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Wool & Willow Needlepoint",
@@ -1950,7 +2166,8 @@
     "url": "www.woolandwillow.com",
     "hours_value": "Tues–Fri 11am–5pm Sat 11am–4pm",
     "phone_value": "216-791-7952",
-    "ig_value": "https://www.instagram.com/woolandwillowneedlepoint"
+    "ig_value": "https://www.instagram.com/woolandwillowneedlepoint",
+    "deleted": false
   },
   {
     "shop_name": "Park Avenue Needlepoint",
@@ -1959,7 +2176,8 @@
     "url": "www.parkavenueneedlepoint.com",
     "hours_value": null,
     "phone_value": "937-298-5776",
-    "ig_value": "https://www.instagram.com/parkavenueneedlepoint/"
+    "ig_value": "https://www.instagram.com/parkavenueneedlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "What's the Point",
@@ -1968,7 +2186,8 @@
     "url": "www.whatsthepoint.biz",
     "hours_value": "Mon-Sat 10am-4pm, Thurs 10am-7:30pm",
     "phone_value": "(614) 717-9008",
-    "ig_value": "https://www.instagram.com/whatsthepoint.needlepoint/"
+    "ig_value": "https://www.instagram.com/whatsthepoint.needlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "Louise's Needlework",
@@ -1977,7 +2196,8 @@
     "url": "www.louisesneedlework.com",
     "hours_value": "Mon, Wed-Sat |  10am-4pm, Tues 10am-7pm",
     "phone_value": "(614) 436-3905",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "In Stitches (Portland)",
@@ -1986,7 +2206,8 @@
     "url": "www.institchespdx.com",
     "hours_value": null,
     "phone_value": "(503) 226-0814",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Playful Needle",
@@ -1995,7 +2216,8 @@
     "url": "www.the-playful-needle.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Fireside Stitchery",
@@ -2004,7 +2226,8 @@
     "url": "www.firesidestitchery.com",
     "hours_value": "Tues-Fri | 10am-4pm, Sat | 10am-3pm",
     "phone_value": "610-889-9835",
-    "ig_value": "https://www.instagram.com/firesidestitchery/"
+    "ig_value": "https://www.instagram.com/firesidestitchery/",
+    "deleted": false
   },
   {
     "shop_name": "Gazebo Plus",
@@ -2013,7 +2236,8 @@
     "url": "www.gazeboplus.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Rittenhouse Needlepoint",
@@ -2022,16 +2246,18 @@
     "url": "www.rittenhouseneedlepoint.com",
     "hours_value": "Mon-Sat | 10am-6pm, Sun | 11am-5pm",
     "phone_value": " 215-563-4566",
-    "ig_value": "https://www.instagram.com/rittenhouseneedlepoint"
+    "ig_value": "https://www.instagram.com/rittenhouseneedlepoint",
+    "deleted": false
   },
   {
     "shop_name": "Needle Point Breeze",
     "city": "Pittsburgh",
     "state": "PA",
     "url": "www.needlepointbreeze.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null
+    "hours_value": "Tues & Thurs | 10am-5pm, Sat | 10am-4pm",
+    "phone_value": "412-361-6380",
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Beehive Needlearts",
@@ -2040,7 +2266,8 @@
     "url": "www.beehiveneedlearts.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Porcupine Needlepoint Shop",
@@ -2049,7 +2276,8 @@
     "url": "www.theporcupineneedlepointshop.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitch Haus",
@@ -2058,7 +2286,8 @@
     "url": "www.stitchhaus.com",
     "hours_value": "Mon-Thurs 10am-5pm, Fri-Sat 10am-4pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Picket Fence (Barrington)",
@@ -2067,7 +2296,8 @@
     "url": "picketfenceneedlepoint.com",
     "hours_value": "Tues-Sat 10:30am-5pm",
     "phone_value": "(401) 245-0484 ",
-    "ig_value": "https://www.instagram.com/thepicketfenceri/"
+    "ig_value": "https://www.instagram.com/thepicketfenceri/",
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint by the Bay",
@@ -2076,7 +2306,8 @@
     "url": "needlepointbythebay.com",
     "hours_value": "Wed, Fri, Sat | 10am-4pm, Thurs | 10am-8pm, Sun | 11am-3pm",
     "phone_value": "401-471-7614",
-    "ig_value": "https://www.instagram.com/needlepointbythebay/"
+    "ig_value": "https://www.instagram.com/needlepointbythebay/",
+    "deleted": false
   },
   {
     "shop_name": "Lycette Designs (Newport)",
@@ -2085,7 +2316,8 @@
     "url": "www.lycettedesigns.com",
     "hours_value": "Wed-Sat | 10am-5pm",
     "phone_value": "401-324-5429",
-    "ig_value": "https://www.instagram.com/lycettedesigns/?hl=en"
+    "ig_value": "https://www.instagram.com/lycettedesigns/?hl=en",
+    "deleted": false
   },
   {
     "shop_name": "Cabbage Row Shoppe",
@@ -2094,7 +2326,8 @@
     "url": "www.cabbagerow.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "The Needle Tree",
@@ -2103,7 +2336,8 @@
     "url": "www.theneedletree.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint Junction (Hilton Head)",
@@ -2112,7 +2346,8 @@
     "url": "shopneedlepointjunction.com",
     "hours_value": "Mon-Fri 9:30am-4pm, Sat 9:30am-2pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "It's a Stitch (Johns Island)",
@@ -2121,7 +2356,8 @@
     "url": "www.itsastitch.net",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitching Fox",
@@ -2130,7 +2366,8 @@
     "url": "www.stitchingfox.com",
     "hours_value": "Tues-Sat | 10am-4pm",
     "phone_value": "864-457-1144",
-    "ig_value": "https://www.instagram.com/stitchingfoxnc/"
+    "ig_value": "https://www.instagram.com/stitchingfoxnc/",
+    "deleted": false
   },
   {
     "shop_name": "A. Bradley Needlearts",
@@ -2139,7 +2376,8 @@
     "url": "www.abradleyneedlearts.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Pawleys Island Needlepoint",
@@ -2148,7 +2386,8 @@
     "url": "www.pineedlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Two's Company Needlepoint",
@@ -2157,7 +2396,8 @@
     "url": "www.twoscompanyneedlepoint.com",
     "hours_value": "Tues-Fri | 11am-4pm, Sat | 10am-4pm",
     "phone_value": "803-327-2967",
-    "ig_value": "https://www.instagram.com/2sconeedlepoint/?hl=en"
+    "ig_value": "https://www.instagram.com/2sconeedlepoint/?hl=en",
+    "deleted": false
   },
   {
     "shop_name": "Barbara's Needlepoint",
@@ -2166,7 +2406,8 @@
     "url": "www.barbarasneedlepoint.com",
     "hours_value": "Mon-Fri 10am-4pm, Sat 10am-3pm",
     "phone_value": "605-367-9050",
-    "ig_value": "https://www.instagram.com/barbarasneedlepoint"
+    "ig_value": "https://www.instagram.com/barbarasneedlepoint",
+    "deleted": false
   },
   {
     "shop_name": "Nashville Needleworks",
@@ -2175,7 +2416,8 @@
     "url": "www.nashvilleneedleworks.com",
     "hours_value": "Mon-Sat 10am-4pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Amy's Golden Strand",
@@ -2184,7 +2426,8 @@
     "url": "www.amybunger.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitchers, Inc.",
@@ -2193,7 +2436,8 @@
     "url": "www.stitchersinc.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needleworks of Austin (The Needle Works)",
@@ -2202,7 +2446,8 @@
     "url": "theneedleworks.com",
     "hours_value": "W, F: 10 am – 4 pm, Thurs: 10am – 7pm, Sat. 10 am – 3 pm A year-long creative lab exploring",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Fancy Stitches",
@@ -2211,7 +2456,8 @@
     "url": "www.fancystitches.com",
     "hours_value": "Wed-Sat 11am-4pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Creative Stitches & Gifts",
@@ -2220,7 +2466,8 @@
     "url": "www.creativestitchesandgifts.com",
     "hours_value": "Tues-Fri 10am-4pm, Sat 10am-2pm",
     "phone_value": "(214) 361 2610",
-    "ig_value": "https://www.instagram.com/creativestitchesandgifts"
+    "ig_value": "https://www.instagram.com/creativestitchesandgifts",
+    "deleted": false
   },
   {
     "shop_name": "Needlepoint This!",
@@ -2229,7 +2476,8 @@
     "url": "www.needlepointthis.com",
     "hours_value": "Mon-Fri | 10am-5pm, Sat | 10am-3:30pm",
     "phone_value": "(214) 363-6377",
-    "ig_value": "https://www.instagram.com/needlepoint_this"
+    "ig_value": "https://www.instagram.com/needlepoint_this",
+    "deleted": false
   },
   {
     "shop_name": "Wipstitch Needleworks",
@@ -2238,7 +2486,8 @@
     "url": "wipstitch.com",
     "hours_value": "Wed-Sat 12-4pm",
     "phone_value": "(214) 909-8538",
-    "ig_value": "https://www.instagram.com/wipstitchneedleworks/?hl=en"
+    "ig_value": "https://www.instagram.com/wipstitchneedleworks/?hl=en",
+    "deleted": false
   },
   {
     "shop_name": "The French Knott",
@@ -2247,7 +2496,8 @@
     "url": "www.thefrenchknot.com",
     "hours_value": "Mon-Sat 10am-5pm",
     "phone_value": "817-731-3446",
-    "ig_value": "https://www.facebook.com/TheFrenchKnot/"
+    "ig_value": "https://www.facebook.com/TheFrenchKnot/",
+    "deleted": false
   },
   {
     "shop_name": "Judy's Stitchery Nook",
@@ -2256,16 +2506,18 @@
     "url": "www.judystitcherynook.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Blue Bonnet Studio",
     "city": "Houston",
     "state": "TX",
-    "url": "www.bluebonnetstudio.com",
+    "url": "https://bluebonnetstudio.com/",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Chandail Needlework",
@@ -2274,16 +2526,18 @@
     "url": "www.chandailneedlework.com",
     "hours_value": "Fri 10am-5pm, Thurs & Sat 10am-4pm",
     "phone_value": "(713) 524-6942",
-    "ig_value": "https://m.facebook.com/Chandail-Needlework-140088702721572/"
+    "ig_value": "https://m.facebook.com/Chandail-Needlework-140088702721572/",
+    "deleted": false
   },
   {
     "shop_name": "Chaparral Needlework",
     "city": "Houston",
     "state": "TX",
-    "url": "www.ndlpt.com",
+    "url": "https://ndlpt.com/",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Nimblefingers",
@@ -2292,7 +2546,8 @@
     "url": "www.nimblefingerstx.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitches in Time (Houston)",
@@ -2301,7 +2556,8 @@
     "url": "www.stitchesintimeneedlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needle House",
@@ -2310,7 +2566,8 @@
     "url": "www.theneedlehouse.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Pocket Full of Stitches",
@@ -2319,7 +2576,8 @@
     "url": "www.pfos.com",
     "hours_value": "Tues-Fri, 10am-5pm, Sat 10am-4pm",
     "phone_value": "806-792-1761",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Snippets Texas",
@@ -2328,7 +2586,8 @@
     "url": "www.snippetstexas.com",
     "hours_value": "Mon | 11am-5pm, Tues | 12pm-5pm, Wed, Thurs, Sat | 10am-5pm, Fri | 2pm-6pm",
     "phone_value": "(830) 240-9070",
-    "ig_value": "https://www.instagram.com/snippetstexas/"
+    "ig_value": "https://www.instagram.com/snippetstexas/",
+    "deleted": false
   },
   {
     "shop_name": "Chandler Cottage Needlepoint",
@@ -2337,7 +2596,8 @@
     "url": "www.chandlercottage.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": true
   },
   {
     "shop_name": "Clark & Company",
@@ -2346,7 +2606,8 @@
     "url": "www.clarkneedlepoint.com",
     "hours_value": null,
     "phone_value": "(210) 867-1444",
-    "ig_value": "https://www.instagram.com/clarkandcompanyneedlepoint/"
+    "ig_value": "https://www.instagram.com/clarkandcompanyneedlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "Stitch Therapy Needlepoint (Spring)",
@@ -2355,7 +2616,8 @@
     "url": "www.stitchtherapyneedlepoint.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Storyteller's Thread",
@@ -2364,7 +2626,8 @@
     "url": "storytellersthread.com",
     "hours_value": "Mon-Fri | 10am-2pm, Sat | 10am-5pm, Sun | 12pm-5pm",
     "phone_value": "832-302-9348",
-    "ig_value": "https://www.instagram.com/storytellersthread/"
+    "ig_value": "https://www.instagram.com/storytellersthread/",
+    "deleted": false
   },
   {
     "shop_name": "Past Times Needlepoint",
@@ -2373,7 +2636,8 @@
     "url": "www.pasttimesneedlepoint.com",
     "hours_value": null,
     "phone_value": "361-572-0088",
-    "ig_value": "https://www.instagram.com/pasttimesneedlepoint/"
+    "ig_value": "https://www.instagram.com/pasttimesneedlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "In Stitches Needlework (Alexandria)",
@@ -2382,7 +2646,8 @@
     "url": "www.institchesneedlework.com",
     "hours_value": "Mon-Sat 10am-3pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Waste Knot Needlepoint",
@@ -2391,7 +2656,8 @@
     "url": "www.wasteknotneedlepoint.com",
     "hours_value": "Mon-Sat 10am-4pm",
     "phone_value": "(703) 807-1828",
-    "ig_value": "https://www.instagram.com/waste_knot_needlepoint/"
+    "ig_value": "https://www.instagram.com/waste_knot_needlepoint/",
+    "deleted": false
   },
   {
     "shop_name": "Caroline's Thread & Canvas",
@@ -2400,7 +2666,8 @@
     "url": "www.carolinesthreadandcanvas.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Magpie Knits (Threads)",
@@ -2409,7 +2676,8 @@
     "url": "www.magpieknits.com",
     "hours_value": "Mon-Sat 10am-5pm, Sun 10am-2pm",
     "phone_value": "434-296-4625",
-    "ig_value": "https://www.instagram.com/magpie.knits/?hl=en"
+    "ig_value": "https://www.instagram.com/magpie.knits/?hl=en",
+    "deleted": false
   },
   {
     "shop_name": "poppypointe",
@@ -2418,7 +2686,8 @@
     "url": "poppypointe.com",
     "hours_value": "Wed 11am-7pm, Thurs-Fri 11am-4pm, Sat 10am-2pm",
     "phone_value": "434-422-8174",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Needle Lady",
@@ -2427,7 +2696,8 @@
     "url": "www.needlelady.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Needles in the Haymarket",
@@ -2436,7 +2706,8 @@
     "url": "www.needlesinthehaymarket.com",
     "hours_value": "Mon-Sat 10am-5:00pm",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Stitch Middleburg",
@@ -2445,7 +2716,8 @@
     "url": "www.stitchmiddleburg.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Jermie's Needlepoint & Linens",
@@ -2454,7 +2726,8 @@
     "url": "www.jermiestoo.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Stitching Studio",
@@ -2463,7 +2736,8 @@
     "url": "www.thestitchingstudiova.com",
     "hours_value": "Tues-Fri 10am-5pm, Sat 10am-4pm",
     "phone_value": "(804) 269-0355",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "West End Needlepoint",
@@ -2472,7 +2746,8 @@
     "url": "www.westendneedlepoint.com",
     "hours_value": "Tues, Thurs, Fri 10am-4pm, Weds 10am-7:30pm Sat 10am-3pm",
     "phone_value": "804-562-4285",
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "In Stitches Fine Needlepoint",
@@ -2481,7 +2756,8 @@
     "url": "www.institchesfineneedlepoint.com",
     "hours_value": "Wed-Fri | 10m-4pm, Sat | 10am-2pm",
     "phone_value": "(802) 867-7031",
-    "ig_value": "https://www.instagram.com/institchesvt"
+    "ig_value": "https://www.instagram.com/institchesvt",
+    "deleted": false
   },
   {
     "shop_name": "Rain City Needlepoint",
@@ -2490,7 +2766,8 @@
     "url": "raincityneedlepoint.com",
     "hours_value": "Tues-Fri | 11am-6pm, Sat | 10am-5pm",
     "phone_value": "206-730-5005",
-    "ig_value": "https://www.instagram.com/rain_city_ndlpt/"
+    "ig_value": "https://www.instagram.com/rain_city_ndlpt/",
+    "deleted": false
   },
   {
     "shop_name": "The Needlepointer",
@@ -2499,7 +2776,8 @@
     "url": "www.theneedlepointer.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Threadneedle Street",
@@ -2508,7 +2786,8 @@
     "url": "www.threadneedlestreet.com",
     "hours_value": null,
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "The Blue Peony",
@@ -2517,7 +2796,8 @@
     "url": "thebluepeony.com",
     "hours_value": "Hours Mon: 11-4ish Tue / Wed: Out Creating Thurs /Fri / Sat: 11-4ish Sun: Closed Delivery icon Free shipping When you spend $60+ Envelope ic",
     "phone_value": null,
-    "ig_value": null
+    "ig_value": null,
+    "deleted": false
   },
   {
     "shop_name": "Heirloom Designs Studio",
@@ -2526,6 +2806,7 @@
     "url": "heirloomdesigns.studio",
     "hours_value": "Wed-Sat 11am-5pm",
     "phone_value": "206-313-9838",
-    "ig_value": "https://www.instagram.com/heirloomdesigns.studio/"
+    "ig_value": "https://www.instagram.com/heirloomdesigns.studio/",
+    "deleted": false
   }
 ]
