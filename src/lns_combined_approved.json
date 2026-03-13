@@ -147,7 +147,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "The West, Inc.",
@@ -224,9 +224,9 @@
     "city": "Sacramento",
     "state": "CA",
     "url": "www.theneedlepointer.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Mon-Fri: 10am-4pm",
+    "phone_value": "(916) 924-9869",
+    "ig_value": "https://www.instagram.com/theneedlepointer/",
     "deleted": false
   },
   {
@@ -324,9 +324,9 @@
     "city": "Wilton",
     "state": "CT",
     "url": "www.enrichedstitch.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Tues, Thurs-Sat: 10am-3pm | Wed: 10am-12pm",
+    "phone_value": "203-210-5107",
+    "ig_value": "https://www.instagram.com/enrichedstitch/",
     "deleted": false
   },
   {
@@ -564,9 +564,9 @@
     "city": "Winnetka",
     "state": "IL",
     "url": "www.theclassicstitch.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Mon-Fri: 9:30am-5pm | Sat 9:30am-4pm",
+    "phone_value": "847-881-2930",
+    "ig_value": "https://www.instagram.com/theclassicstitch/?hl=en",
     "deleted": false
   },
   {
@@ -587,7 +587,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Persnickety Stitchers",
@@ -674,9 +674,9 @@
     "city": "Louisville",
     "state": "KY",
     "url": "www.stitchneedlepointshop.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Tues-Sat: 10am-2pm",
+    "phone_value": "(502) 384-3424",
+    "ig_value": "https://www.instagram.com/stitchneedlepointshop",
     "deleted": false
   },
   {
@@ -737,7 +737,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Wellesley Needlepoint Collection",
@@ -767,7 +767,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Grace Robinson and Company",
@@ -824,8 +824,8 @@
     "city": "Edina",
     "state": "MN",
     "url": "www.thepicketfenceinc.com",
-    "hours_value": null,
-    "phone_value": null,
+    "hours_value": "Tues, Thurs, & Sat: 10am-3pm",
+    "phone_value": "952-920-7888",
     "ig_value": null,
     "deleted": false
   },
@@ -864,8 +864,8 @@
     "city": "St. Louis",
     "state": "MO",
     "url": "www.signofthearrow.com",
-    "hours_value": null,
-    "phone_value": null,
+    "hours_value": "Mo-Sat: 9:30am-5pm",
+    "phone_value": "877-869-7356",
     "ig_value": null,
     "deleted": false
   },
@@ -877,7 +877,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Chapel Hill Needlepoint",
@@ -974,9 +974,9 @@
     "city": "Haddonfield",
     "state": "NJ",
     "url": "www.nimbleneedle.net",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Tues-Fri: 12pm-5pm | Sat 11am-4pm",
+    "phone_value": "856-354-8100",
+    "ig_value": "https://www.instagram.com/nimbleneedlenj/",
     "deleted": false
   },
   {
@@ -1074,9 +1074,9 @@
     "city": "Locust Valley",
     "state": "NY",
     "url": "www.theredthreadatelier.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Wed-Fri: 11am-4pm | Sat: 11am-3pm",
+    "phone_value": "516-962-9422",
+    "ig_value": "https://www.instagram.com/theredthreadatelier/",
     "deleted": false
   },
   {
@@ -1264,9 +1264,9 @@
     "city": "Pittsburgh",
     "state": "PA",
     "url": "www.beehiveneedlearts.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Mon, Fri, Sat: 9am-2pm | Wed: 9am-7pm",
+    "phone_value": "412-343-4630",
+    "ig_value": "http://instagram.com/BeehiveNeedleArts",
     "deleted": false
   },
   {
@@ -1314,9 +1314,9 @@
     "city": "Greenville",
     "state": "SC",
     "url": "www.theneedletree.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Tues-Fri: 10am-5pm | Sat: 10:00am-3pm",
+    "phone_value": "(864) 235-6060",
+    "ig_value": "https://www.instagram.com/the_needletree/",
     "deleted": false
   },
   {
@@ -1457,15 +1457,15 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "The Needle House",
     "city": "Houston",
     "state": "TX",
     "url": "www.theneedlehouse.com",
-    "hours_value": null,
-    "phone_value": null,
+    "hours_value": "Mon-Fri: 9:30am-3pm | Sat 9:30am-3pm",
+    "phone_value": "713-522-9704",
     "ig_value": null,
     "deleted": false
   },
@@ -1573,10 +1573,10 @@
     "shop_name": "Stitch Middleburg",
     "city": "Middleburg",
     "state": "VA",
-    "url": "www.stitchmiddleburg.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "url": "https://www.stitchvirginia.com/",
+    "hours_value": "Wed: 4pm-7pm | Thurs & Fri: 11am-4pm | Sat: 11am-3pm",
+    "phone_value": "(540) 687-5990",
+    "ig_value": "https://www.instagram.com/stitchvirginia/?hl=en",
     "deleted": false
   },
   {
@@ -1634,10 +1634,10 @@
     "city": "Everett",
     "state": "WA",
     "url": "www.theneedlepointer.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
-    "deleted": false
+    "hours_value": "Mon-Fri: 10am-4pm",
+    "phone_value": "(916) 924-9869",
+    "ig_value": "https://www.instagram.com/theneedlepointer/",
+    "deleted": true
   },
   {
     "shop_name": "Threadneedle Street",
