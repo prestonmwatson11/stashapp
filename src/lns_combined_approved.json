@@ -617,7 +617,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "M's Canvashouse",
@@ -1124,9 +1124,9 @@
     "city": "New York",
     "state": "NY",
     "url": "www.wvknitandneedle.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Mon, Tues, Thurs, Sat: 11am to 6pm | Wed: 11am to 7pm | Sun: 12pm to 5pm",
+    "phone_value": "917-262-0121",
+    "ig_value": "https://www.instagram.com/wvknitandneedle",
     "deleted": false
   },
   {
@@ -1644,8 +1644,8 @@
     "city": "Issaquah",
     "state": "WA",
     "url": "www.threadneedlestreet.com",
-    "hours_value": null,
-    "phone_value": null,
+    "hours_value": "Mon-Sat | 10am-5pm",
+    "phone_value": "(425) 391-0528",
     "ig_value": null,
     "deleted": false
   },
