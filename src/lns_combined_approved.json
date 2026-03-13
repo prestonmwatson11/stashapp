@@ -107,7 +107,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Family Arts Needlework Shop",
@@ -187,7 +187,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Needle Nook of La Jolla",
@@ -307,7 +307,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Thistle Needleworks",
@@ -484,9 +484,9 @@
     "city": "Sandy Springs",
     "state": "GA",
     "url": "www.atlantanimbleneedle.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Tues, Wed, Fri, Sat | 9:30am-3:30pm, Thursday | 9:30am-7:00pm",
+    "phone_value": "(404) 843 - 8687",
+    "ig_value": "https://www.instagram.com/thenimbleneedle/",
     "deleted": false
   },
   {
@@ -507,7 +507,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Maydel",
@@ -687,7 +687,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "The Elegant Needle",
@@ -794,9 +794,9 @@
     "city": "Birmingham",
     "state": "MI",
     "url": "www.eneedleworks.com",
-    "hours_value": null,
-    "phone_value": null,
-    "ig_value": null,
+    "hours_value": "Mon-Wed: 10am-4pm | Thu-Fri: 12pm-4pm | Sat: 10am-2pm",
+    "phone_value": "(248) 645-1180",
+    "ig_value": "https://www.instagram.com/needleworksbhammi",
     "deleted": false
   },
   {
@@ -847,7 +847,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "KC Needlepoint",
@@ -1007,7 +1007,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Scrim Discovery Needlepoint",
@@ -1047,7 +1047,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Expressions in Needleart",
@@ -1057,7 +1057,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Stitch by Stitch",
@@ -1227,7 +1227,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Fireside Stitchery",
@@ -1437,7 +1437,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "Chandail Needlework",
@@ -1587,7 +1587,7 @@
     "hours_value": null,
     "phone_value": null,
     "ig_value": null,
-    "deleted": false
+    "deleted": true
   },
   {
     "shop_name": "The Stitching Studio",
