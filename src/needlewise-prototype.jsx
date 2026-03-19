@@ -1327,7 +1327,7 @@ export default function Needlewise() {
                   <button className="btn btn-s" style={{fontSize:12,padding:'6px 14px'}} onClick={()=>{setTab('discover');setDiscoverTab('designs');}}>View All →</button>
                 </div>
                 <div style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(200px,1fr))',gap:16}}>
-                  {CANVASES.slice(0,6).map((c,i)=>(
+                  {INIT_CANVASES.slice(0,6).map((c,i)=>(
                     <div key={i} style={{background:'#FFFFFF',borderRadius:12,border:`1px solid ${T.sand}`,overflow:'hidden',cursor:'pointer',transition:'all 0.2s'}}
                       onMouseOver={e=>{e.currentTarget.style.boxShadow='0 8px 24px rgba(28,61,90,0.12)';e.currentTarget.style.transform='translateY(-2px)';}}
                       onMouseOut={e=>{e.currentTarget.style.boxShadow='none';e.currentTarget.style.transform='translateY(0)';}}
