@@ -1142,7 +1142,7 @@ function colorSearch(hex, q) {
 
 // ─── APP ──────────────────────────────────────────────────────────────────────
 export default function Needlewise() {
-  const [tab,setTab]=useState('discover');
+  const [tab,setTab]=useState('home');
   const [stitchQ,setStitchQ]=useState('');
   const [stitchCat,setStitchCat]=useState('All');
   const [selStitch,setSelStitch]=useState(null);
@@ -1234,6 +1234,7 @@ export default function Needlewise() {
   const wc=(w)=>w<=3?T.sage:w<=6?T.caramel:T.terracotta;
 
   const TABS=[
+    {id:'home',label:'Home'},
     {id:'discover',label:'Designs'},
     {id:'stitches',label:'Stitch Library'},
     {id:'events',label:'Community'},
@@ -1248,7 +1249,7 @@ export default function Needlewise() {
       <div className="app">
         {/* HEADER */}
         <header className="header">
-          <div className="logo" style={{cursor:'pointer'}} onClick={()=>{setTab('discover');setSelStitch(null);setDiscoverTab('designs');}}>Needle<em>wise</em></div>
+          <div className="logo" style={{cursor:'pointer'}} onClick={()=>{setTab('home');setSelStitch(null);}}>Needle<em>wise</em></div>
           <nav className="nav">
             {TABS.map(t=>(
               <button key={t.id} className={`ntab ${tab===t.id?'active':''}`} onClick={()=>{setTab(t.id);setSelStitch(null);}}>
@@ -1287,6 +1288,191 @@ export default function Needlewise() {
         </header>
 
         <div className="main">
+
+          {/* ══ HOME ══ */}
+          {tab==='home'&&(
+            <div className="fadein">
+
+              {/* HERO */}
+              <div style={{background:`linear-gradient(135deg, ${T.navy} 0%, #2A5278 60%, #1a4a6e 100%)`,padding:'60px 48px 52px',position:'relative',overflow:'hidden'}}>
+                <div style={{position:'absolute',top:0,right:0,width:'45%',height:'100%',opacity:0.07,backgroundImage:"url(\"data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")"}}/>
+                <div style={{maxWidth:640,position:'relative'}}>
+                  <div style={{display:'inline-block',background:'rgba(224,112,96,0.25)',border:'1px solid rgba(224,112,96,0.5)',borderRadius:20,padding:'4px 14px',fontSize:12,fontWeight:600,color:'#FDDDD9',letterSpacing:'0.06em',marginBottom:16,textTransform:'uppercase'}}>The needlepoint community platform</div>
+                  <h1 style={{fontFamily:"'Fraunces',serif",fontSize:46,fontWeight:700,color:'#FFFFFF',lineHeight:1.15,marginBottom:16,letterSpacing:'-0.02em'}}>Everything a stitcher<br/>needs, in one place.</h1>
+                  <p style={{fontSize:16,color:'rgba(255,255,255,0.72)',lineHeight:1.7,marginBottom:28,maxWidth:480}}>Discover canvases, find local shops, connect with other stitchers, track your stash, and book finishing — all on Needlewise.</p>
+                  <div style={{display:'flex',gap:12,flexWrap:'wrap'}}>
+                    <button className="btn btn-p" style={{fontSize:14,padding:'11px 24px'}} onClick={()=>setTab('discover')}>Browse Designs</button>
+                    <button className="btn" style={{fontSize:14,padding:'11px 24px',background:'rgba(255,255,255,0.12)',color:'#FFFFFF',border:'1px solid rgba(255,255,255,0.25)',borderRadius:24}} onClick={()=>setTab('map')}>Find a Shop Near You</button>
+                  </div>
+                </div>
+              </div>
+
+              {/* STATS BAR */}
+              <div style={{background:'#FFFFFF',borderBottom:`1px solid ${T.sand}`,padding:'16px 48px',display:'flex',gap:40,flexWrap:'wrap'}}>
+                {[['281','Verified LNS Shops'],['2,000+','Canvases Indexed'],['200+','Stitch Guides'],['Active','Stitcher Community']].map(([num,label])=>(
+                  <div key={label} style={{display:'flex',alignItems:'baseline',gap:8}}>
+                    <span style={{fontFamily:"'Fraunces',serif",fontSize:22,fontWeight:700,color:T.navy}}>{num}</span>
+                    <span style={{fontSize:13,color:T.warmGray}}>{label}</span>
+                  </div>
+                ))}
+              </div>
+
+              {/* NEW DESIGNS */}
+              <div style={{padding:'44px 48px 0'}}>
+                <div style={{display:'flex',alignItems:'baseline',justifyContent:'space-between',marginBottom:20}}>
+                  <div>
+                    <div style={{fontFamily:"'Fraunces',serif",fontSize:24,fontWeight:700,color:T.navy,marginBottom:3}}>New Designs</div>
+                    <div style={{fontSize:13,color:T.warmGray}}>Fresh canvases just added this week</div>
+                  </div>
+                  <button className="btn btn-s" style={{fontSize:12,padding:'6px 14px'}} onClick={()=>{setTab('discover');setDiscoverTab('designs');}}>View All →</button>
+                </div>
+                <div style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(200px,1fr))',gap:16}}>
+                  {CANVASES.slice(0,6).map((c,i)=>(
+                    <div key={i} style={{background:'#FFFFFF',borderRadius:12,border:`1px solid ${T.sand}`,overflow:'hidden',cursor:'pointer',transition:'all 0.2s'}}
+                      onMouseOver={e=>{e.currentTarget.style.boxShadow='0 8px 24px rgba(28,61,90,0.12)';e.currentTarget.style.transform='translateY(-2px)';}}
+                      onMouseOut={e=>{e.currentTarget.style.boxShadow='none';e.currentTarget.style.transform='translateY(0)';}}
+                      onClick={()=>{setTab('discover');setDiscoverTab('designs');}}>
+                      <div style={{height:160,overflow:'hidden',background:T.parchment}}>
+                        <img src={c.img} alt={c.title} style={{width:'100%',height:'100%',objectFit:'cover'}} onError={e=>{e.target.style.display='none';}}/>
+                      </div>
+                      <div style={{padding:'12px 14px'}}>
+                        <div style={{fontSize:10,textTransform:'uppercase',letterSpacing:'0.08em',color:T.caramel,fontWeight:600,marginBottom:3}}>{c.designer}</div>
+                        <div style={{fontFamily:"'Fraunces',serif",fontSize:14,fontWeight:600,color:T.navy,marginBottom:4,lineHeight:1.3}}>{c.title}</div>
+                        <div style={{fontSize:13,fontWeight:700,color:T.navy}}>${c.p}</div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* TWO COL: FIND A SHOP + FINISHING */}
+              <div style={{padding:'44px 48px 0',display:'grid',gridTemplateColumns:'1fr 1fr',gap:24}}>
+
+                {/* FIND A SHOP */}
+                <div style={{background:'#FFFFFF',border:`1px solid ${T.sand}`,borderRadius:16,overflow:'hidden'}}>
+                  <div style={{background:`linear-gradient(135deg,#1C3D5A,#2A5278)`,padding:'24px 24px 20px'}}>
+                    <div style={{fontSize:11,textTransform:'uppercase',letterSpacing:'0.1em',color:'rgba(255,255,255,0.6)',marginBottom:6,fontWeight:600}}>Directory</div>
+                    <div style={{fontFamily:"'Fraunces',serif",fontSize:20,fontWeight:700,color:'#FFFFFF',marginBottom:4}}>Find a Local Shop</div>
+                    <div style={{fontSize:13,color:'rgba(255,255,255,0.65)'}}>281 verified LNS shops across the US with hours, Instagram, and more.</div>
+                  </div>
+                  <div style={{padding:'16px 24px'}}>
+                    {SHOPS_GEO.filter(s=>s.hours).slice(0,3).map((s,i)=>(
+                      <div key={i} style={{display:'flex',justifyContent:'space-between',alignItems:'center',padding:'10px 0',borderBottom:i<2?`1px solid ${T.sandGrayLight}`:'none'}}>
+                        <div>
+                          <div style={{fontSize:14,fontWeight:600,color:T.navy}}>{s.name}</div>
+                          <div style={{fontSize:12,color:T.warmGray}}>{s.city}, {s.state}</div>
+                        </div>
+                        <div style={{fontSize:11,color:T.sandGray,textAlign:'right',maxWidth:120}}>{s.hours.slice(0,30)}{s.hours.length>30?'…':''}</div>
+                      </div>
+                    ))}
+                    <button className="btn btn-g" style={{width:'100%',marginTop:14,fontSize:13}} onClick={()=>setTab('map')}>Browse All Shops →</button>
+                  </div>
+                </div>
+
+                {/* FINISHING */}
+                <div style={{background:'#FFFFFF',border:`1px solid ${T.sand}`,borderRadius:16,overflow:'hidden'}}>
+                  <div style={{background:`linear-gradient(135deg,#C85A4A,#E07060)`,padding:'24px 24px 20px'}}>
+                    <div style={{fontSize:11,textTransform:'uppercase',letterSpacing:'0.1em',color:'rgba(255,255,255,0.6)',marginBottom:6,fontWeight:600}}>Book Now</div>
+                    <div style={{fontFamily:"'Fraunces',serif",fontSize:20,fontWeight:700,color:'#FFFFFF',marginBottom:4}}>Finishing Services</div>
+                    <div style={{fontSize:13,color:'rgba(255,255,255,0.65)'}}>Find finishers, check wait times, and book your next project.</div>
+                  </div>
+                  <div style={{padding:'16px 24px'}}>
+                    {[{name:'Scarlett Threads',loc:'Dallas, TX',wait:'6 weeks',rating:'⭐⭐⭐⭐⭐'},
+                      {name:'Capital Stitchery',loc:'Washington, DC',wait:'8 weeks',rating:'⭐⭐⭐⭐⭐'},
+                      {name:'Blue Heron Finishing',loc:'Charleston, SC',wait:'4 weeks',rating:'⭐⭐⭐⭐⭐'}].map((f,i)=>(
+                      <div key={i} style={{display:'flex',justifyContent:'space-between',alignItems:'center',padding:'10px 0',borderBottom:i<2?`1px solid ${T.sandGrayLight}`:'none'}}>
+                        <div>
+                          <div style={{fontSize:14,fontWeight:600,color:T.navy}}>{f.name}</div>
+                          <div style={{fontSize:12,color:T.warmGray}}>{f.loc} · {f.rating}</div>
+                        </div>
+                        <div style={{fontSize:11,fontWeight:600,color:T.caramel}}>{f.wait}</div>
+                      </div>
+                    ))}
+                    <button className="btn btn-p" style={{width:'100%',marginTop:14,fontSize:13}} onClick={()=>setTab('finishing')}>Book a Finisher →</button>
+                  </div>
+                </div>
+              </div>
+
+              {/* RECENT DISCUSSIONS + STITCH OF THE WEEK */}
+              <div style={{padding:'44px 48px 0',display:'grid',gridTemplateColumns:'1.4fr 1fr',gap:24}}>
+
+                {/* RECENT DISCUSSIONS */}
+                <div style={{background:'#FFFFFF',border:`1px solid ${T.sand}`,borderRadius:16,padding:'24px'}}>
+                  <div style={{display:'flex',justifyContent:'space-between',alignItems:'baseline',marginBottom:16}}>
+                    <div style={{fontFamily:"'Fraunces',serif",fontSize:18,fontWeight:700,color:T.navy}}>Recent Discussions</div>
+                    <button className="btn btn-s" style={{fontSize:11,padding:'4px 10px'}} onClick={()=>setTab('events')}>See All →</button>
+                  </div>
+                  {[{title:'Best threads for a Santa face canvas?',cat:'Q&A',replies:14,time:'2h ago'},
+                    {title:'My first finish! Herend bird on 18-mesh',cat:'Show & Tell',replies:31,time:'4h ago'},
+                    {title:'Tips for stitching dark backgrounds without bleed?',cat:'Technique',replies:8,time:'6h ago'},
+                    {title:'Anyone used Silk & Ivory for tent stitch?',cat:'Thread Talk',replies:19,time:'Yesterday'},
+                    {title:'Spring retreat planning — who\'s in Austin?',cat:'Events',replies:22,time:'Yesterday'},
+                  ].map((d,i)=>(
+                    <div key={i} style={{display:'flex',gap:12,padding:'11px 0',borderBottom:i<4?`1px solid ${T.sandGrayLight}`:'none',cursor:'pointer'}}
+                      onClick={()=>setTab('events')}>
+                      <div style={{flex:1}}>
+                        <div style={{fontSize:13,fontWeight:500,color:T.navy,lineHeight:1.4,marginBottom:3}}>{d.title}</div>
+                        <div style={{display:'flex',gap:10,fontSize:11,color:T.sandGray}}>
+                          <span style={{background:T.paleBlue,color:T.navy,padding:'1px 7px',borderRadius:10,fontWeight:600}}>{d.cat}</span>
+                          <span>{d.replies} replies · {d.time}</span>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+
+                {/* STITCH OF THE WEEK + DESTASH PREVIEW */}
+                <div style={{display:'flex',flexDirection:'column',gap:24}}>
+
+                  {/* STITCH OF WEEK */}
+                  <div style={{background:'#FFFFFF',border:`1px solid ${T.sand}`,borderRadius:16,padding:'24px',cursor:'pointer'}} onClick={()=>setTab('stitches')}>
+                    <div style={{fontSize:11,textTransform:'uppercase',letterSpacing:'0.08em',color:T.caramel,fontWeight:600,marginBottom:8}}>Stitch of the Week</div>
+                    <div style={{display:'flex',gap:14,alignItems:'flex-start'}}>
+                      <div style={{width:72,height:72,borderRadius:10,overflow:'hidden',flexShrink:0,background:T.parchment,display:'flex',alignItems:'center',justifyContent:'center'}}>
+                        <StitchDiagram type="scotch" size={72}/>
+                      </div>
+                      <div>
+                        <div style={{fontFamily:"'Fraunces',serif",fontSize:17,fontWeight:700,color:T.navy,marginBottom:4}}>Scotch Stitch</div>
+                        <div style={{fontSize:12,color:T.warmGray,lineHeight:1.5}}>A padded square of five diagonal stitches. Alternated in direction, it creates stunning geometric texture perfect for backgrounds.</div>
+                      </div>
+                    </div>
+                    <button className="btn btn-s" style={{width:'100%',marginTop:14,fontSize:12}} onClick={e=>{e.stopPropagation();setTab('stitches');}}>Explore 200+ Stitches →</button>
+                  </div>
+
+                  {/* DESTASH PREVIEW */}
+                  <div style={{background:'#FFFFFF',border:`1px solid ${T.sand}`,borderRadius:16,padding:'24px'}}>
+                    <div style={{display:'flex',justifyContent:'space-between',alignItems:'baseline',marginBottom:14}}>
+                      <div style={{fontFamily:"'Fraunces',serif",fontSize:17,fontWeight:700,color:T.navy}}>Destash</div>
+                      <button className="btn btn-s" style={{fontSize:11,padding:'4px 10px'}} onClick={()=>setTab('destash')}>Browse →</button>
+                    </div>
+                    {[{title:'Lot of 12 Silk & Ivory skeins — blues/greens',price:'$28',condition:'New'},
+                      {title:'Unstitched canvas: Zecca lobster 18-mesh',price:'$55',condition:'New'},
+                      {title:'3x Vineyard Silk metallic, various colors',price:'$12',condition:'Like New'},
+                    ].map((d,i)=>(
+                      <div key={i} style={{display:'flex',justifyContent:'space-between',alignItems:'center',padding:'8px 0',borderBottom:i<2?`1px solid ${T.sandGrayLight}`:'none',cursor:'pointer'}} onClick={()=>setTab('destash')}>
+                        <div style={{fontSize:12,color:T.navy,fontWeight:500,flex:1,paddingRight:8,lineHeight:1.3}}>{d.title}</div>
+                        <div style={{textAlign:'right',flexShrink:0}}>
+                          <div style={{fontSize:13,fontWeight:700,color:T.navy}}>{d.price}</div>
+                          <div style={{fontSize:10,color:T.sandGray}}>{d.condition}</div>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+
+                </div>
+              </div>
+
+              {/* BOTTOM CTA */}
+              <div style={{margin:'44px 48px 48px',background:`linear-gradient(135deg,${T.navy},#2A5278)`,borderRadius:16,padding:'36px 40px',display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:20}}>
+                <div>
+                  <div style={{fontFamily:"'Fraunces',serif",fontSize:22,fontWeight:700,color:'#FFFFFF',marginBottom:6}}>Is your shop on Needlewise?</div>
+                  <div style={{fontSize:14,color:'rgba(255,255,255,0.65)'}}>Add your LNS to our directory and reach thousands of local stitchers.</div>
+                </div>
+                <button className="btn btn-p" style={{fontSize:14,padding:'12px 28px',flexShrink:0}}>Add Your Shop →</button>
+              </div>
+
+            </div>
+          )}
 
           {/* ══ CANVAS DISCOVERY ══ */}
           {tab==='discover'&&(
@@ -2078,13 +2264,17 @@ export default function Needlewise() {
                       <div className="lnscity">{s.city}, {s.state}</div>
                       {s.hours&&<div className="lnsrow">&#x23F0; {s.hours}</div>}
                       {s.phone&&<div className="lnsrow">&#x1F4DE; {s.phone}</div>}
-                      <div style={{display:'flex',gap:6,marginTop:10,alignItems:'center'}}>
-                        {s.url
-                          ? <a href={s.url} target="_blank" rel="noreferrer" className="btn btn-s" style={{fontSize:11,padding:'5px 11px',textDecoration:'none'}}>Visit Website &#x2192;</a>
-                          : <button className="btn btn-s" style={{fontSize:11,padding:'5px 11px'}}>View Shop</button>
-                        }
-                        <button className="btn btn-p" style={{fontSize:11,padding:'5px 11px'}}>Classes &#x2192;</button>
-                        {s.ig&&<a href={s.ig} target="_blank" rel="noreferrer" style={{display:'flex',alignItems:'center',justifyContent:'center',width:30,height:30,borderRadius:'50%',border:'1.5px solid #DDE3E9',textDecoration:'none',flexShrink:0,transition:'border-color 0.15s'}} title="Instagram"
+                      <div style={{display:'flex',gap:6,marginTop:10,alignItems:'center',justifyContent:'space-between'}}>
+                        <div style={{display:'flex',gap:6,alignItems:'center'}}>
+                          {s.url
+                            ? <a href={s.url} target="_blank" rel="noreferrer" className="btn btn-s" style={{fontSize:11,padding:'5px 11px',textDecoration:'none'}}>Visit Website &#x2192;</a>
+                            : <button className="btn btn-s" style={{fontSize:11,padding:'5px 11px'}}>View Shop</button>
+                          }
+                          <button className="btn btn-p" style={{fontSize:11,padding:'5px 11px'}}>Classes &#x2192;</button>
+                        </div>
+                        {s.ig&&<a href={s.ig} target="_blank" rel="noreferrer"
+                          style={{display:'flex',alignItems:'center',justifyContent:'center',width:30,height:30,borderRadius:'50%',border:'1.5px solid #DDE3E9',textDecoration:'none',flexShrink:0,transition:'border-color 0.15s'}}
+                          title="Instagram"
                           onMouseOver={e=>e.currentTarget.style.borderColor='#E07060'}
                           onMouseOut={e=>e.currentTarget.style.borderColor='#DDE3E9'}>
                           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#5A6370" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
